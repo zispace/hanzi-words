@@ -1,0 +1,878 @@
+# 国家地名信息库·月球地名
+# https://dmfw.mca.gov.cn/moon.html
+#
+# 标准译名	国际通用名	地形类别
+
+阿贝	Abbe	环形山、坑
+阿贝尔	Abel	环形山、坑
+阿波罗	Apollo	环形山、坑
+阿尔德	Alder	环形山、坑
+阿方索	Alphonsus	环形山、坑
+阿伏伽德罗	Avogadro	环形山、坑
+阿基米德	Archimedes	环形山、坑
+阿廖欣	Alekhin	环形山、坑
+阿蒙森	Amundsen	环形山、坑
+阿姆斯特朗	Armstrong	环形山、坑
+阿那克西米尼	Anaximenes	环形山、坑
+阿什布鲁克	Ashbrook	环形山、坑
+阿特拉斯	Atlas	环形山、坑
+埃尔米特	Hermite	环形山、坑
+埃姆登	Emden	环形山、坑
+埃斯诺-佩尔蒂埃	Esnault-Pelterie	环形山、坑
+艾肯	Aitken	环形山、坑
+爱迪生	Edison	环形山、坑
+爱丁顿	Eddington	环形山、坑
+爱因斯坦	Einstein	环形山、坑
+安德森	Anderson	环形山、坑
+安斯加尔	Ansgarius	环形山、坑
+奥本海默	Oppenheimer	环形山、坑
+奥尔德林	Aldrin	环形山、坑
+奥尔登	Alden	环形山、坑
+奥尔科特	Olcott	环形山、坑
+奥尔洛夫	Orlov	环形山、坑
+奥斯特瓦尔德	Ostwald	环形山、坑
+巴贝奇	Babbage	环形山、坑
+巴布科克	Babcock	环形山、坑
+巴尔末	Balmer	环形山、坑
+巴甫洛夫	Pavlov	环形山、坑
+巴罗	Barrow	环形山、坑
+巴纳德	Barnard	环形山、坑
+巴斯德	Pasteur	环形山、坑
+巴塔尼	Albategnius	环形山、坑
+巴伊	Bailly	环形山、坑
+巴约	Baillaud	环形山、坑
+白贝罗	Buys-Ballot	环形山、坑
+柏拉图	Plato	环形山、坑
+班廷	Banting	环形山、坑
+鲍耶	Bolyai	环形山、坑
+贝尔	Bell	环形山、坑
+贝海姆	Behaim	环形山、坑
+比拉	Biela	环形山、坑
+比鲁尼	Al-Biruni	环形山、坑
+毕达哥拉斯	Pythagoras	环形山、坑
+别利科维奇	Bel'kovich	环形山、坑
+波乔布特	Poczobutt	环形山、坑
+玻尔	Bohr	环形山、坑
+玻尔兹曼	Boltzmann	环形山、坑
+伯德	Byrd	环形山、坑
+伯克霍夫	Birkhoff	环形山、坑
+伯克纳	Berkner	环形山、坑
+伯明翰	Birmingham	环形山、坑
+博斯	Bose	环形山、坑
+布丰	Buffon	环形山、坑
+布喇格	Bragg	环形山、坑
+布莱克特	Blackett	环形山、坑
+布劳威尔	Brouwer	环形山、坑
+布里奇曼	Bridgman	环形山、坑
+布利安生	Brianchon	环形山、坑
+布森戈	Boussingault	环形山、坑
+灿德尔	Tsander (Zander)	环形山、坑
+查普尔	Chappell	环形山、坑
+查普曼	Chapman	环形山、坑
+达·芬奇	da Vinci	环形山、坑
+达尔文	Darwin	环形山、坑
+但丁	Dante	环形山、坑
+道尔顿	Dalton	环形山、坑
+德拜	Debye	环形山、坑
+德拉鲁	De la Rue	环形山、坑
+德朗达尔	Deslandres	环形山、坑
+德里加尔斯基	Drygalski	环形山、坑
+德林杰	Dellinger	环形山、坑
+德扎尔格	Desargues	环形山、坑
+笛卡儿	Descartes	环形山、坑
+第谷	Tycho	环形山、坑
+丢番图	Diophantus	环形山、坑
+多普勒	Doppler	环形山、坑
+厄缶	Eötvös	环形山、坑
+恩底弥昂	Endymion	环形山、坑
+法布里	Fabry	环形山、坑
+法布里休斯	Fabricius	环形山、坑
+法拉第	Faraday	环形山、坑
+范德格拉夫	Van de Graaff	环形山、坑
+范德瓦耳斯	Van der Waals	环形山、坑
+范托夫	van't Hoff	环形山、坑
+菲利普斯	Phillips	环形山、坑
+斐索	Fizeau	环形山、坑
+费米	Fermi	环形山、坑
+费斯曼	Fersman	环形山、坑
+费希纳	Fechner	环形山、坑
+冯·拜耳	von Baeyer	环形山、坑
+冯·贝凯西	von Békésy	环形山、坑
+冯·卡门	Von Kármán	环形山、坑
+冯·诺伊曼	Von Neumann	环形山、坑
+弗拉卡斯托罗	Fracastorius	环形山、坑
+弗拉克	Vlacq	环形山、坑
+弗拉马里翁	Flammarion	环形山、坑
+弗莱明	Fleming	环形山、坑
+弗里德曼	Fridman (Friedmann)	环形山、坑
+弗罗因德利希	Freundlich	环形山、坑
+弗洛伊德	Freud	环形山、坑
+伏打	Volta	环形山、坑
+福勒	Fowler	环形山、坑
+傅立叶	Fourier	环形山、坑
+富兰克林	Franklin	环形山、坑
+盖奥特	Guyot	环形山、坑
+高斯	Gauss	环形山、坑
+戈达德	Goddard	环形山、坑
+哥白尼	Copernicus	环形山、坑
+哥伦布	Colombo	环形山、坑
+格拉西莫维奇	Gerasimovich	环形山、坑
+格里马尔迪	Grimaldi	环形山、坑
+格特纳	Gärtner	环形山、坑
+谷登堡	Gutenberg	环形山、坑
+哈勃	Hubble	环形山、坑
+哈恩	Hahn	环形山、坑
+哈金斯	Huggins	环形山、坑
+哈雷	Halley	环形山、坑
+哈特维希	Hartwig	环形山、坑
+哈泽	Hase	环形山、坑
+海尔	Hale	环形山、坑
+海因	Hayn	环形山、坑
+海因修斯	Heinsius	环形山、坑
+亥姆霍兹	Helmholtz	环形山、坑
+亥维赛	Heaviside	环形山、坑
+汉诺	Hanno	环形山、坑
+豪森	Hausen	环形山、坑
+赫·乔·威尔斯	H. G. Wells	环形山、坑
+赫茨普龙	Hertzsprung	环形山、坑
+赫卡泰奥斯	Hecataeus	环形山、坑
+赫拉克利特	Heraclitus	环形山、坑
+赫斯	Hess	环形山、坑
+赫维留	Hevelius	环形山、坑
+赫歇尔	Herschel	环形山、坑
+赫胥黎	Huxley	环形山、坑
+赫兹	Hertz	环形山、坑
+洪堡	Humboldt	环形山、坑
+胡克	Hooke	环形山、坑
+华莱士	Wallace	环形山、坑
+怀尔德	Wyld	环形山、坑
+霍梅尔	Hommel	环形山、坑
+基巴利契奇	Kibal'chich	环形山、坑
+基勒	Keeler	环形山、坑
+吉尔伯特	Gilbert	环形山、坑
+纪尧姆	Guillaume	环形山、坑
+季霍夫	Tikhov	环形山、坑
+加加林	Gagarin	环形山、坑
+伽伐尼	Galvani	环形山、坑
+伽利略	Galilaei	环形山、坑
+伽罗瓦	Galois	环形山、坑
+伽莫夫	Gamow	环形山、坑
+伽桑狄	Gassendi	环形山、坑
+焦尔达诺·布鲁诺	Giordano Bruno	环形山、坑
+焦耳	Joule	环形山、坑
+杰克逊	Jackson	环形山、坑
+杰勒德	Gerard	环形山、坑
+金斯	Jeans	环形山、坑
+居里	Curie	环形山、坑
+居维叶	Cuvier	环形山、坑
+卡巴纳	Cabannes	环形山、坑
+卡尔平斯基	Karpinskiy	环形山、坑
+卡诺	Carnot	环形山、坑
+开普勒	Kepler	环形山、坑
+凯库勒	Kekulé	环形山、坑
+坎贝尔	Campbell	环形山、坑
+康德	Kant	环形山、坑
+康普顿	Compton	环形山、坑
+康托尔	Cantor	环形山、坑
+柯瓦列夫斯卡娅	Kovalevskaya	环形山、坑
+柯西	Cauchy	环形山、坑
+科赫	Koch	环形山、坑
+科里奥利	Coriolis	环形山、坑
+科罗廖夫	Korolev	环形山、坑
+科马罗夫	Komarov	环形山、坑
+克拉普罗特	Klaproth	环形山、坑
+克莱奥迈季斯	Cleomedes	环形山、坑
+克雷蒂安	Chrétien	环形山、坑
+克斯特纳	Kästner	环形山、坑
+库尔恰托夫	Kurchatov	环形山、坑
+库克	Cook	环形山、坑
+库仑	Coulomb	环形山、坑
+拉比列维	Rabbi Levi	环形山、坑
+拉彼鲁兹	La Pérouse	环形山、坑
+拉格朗日	Lagrange	环形山、坑
+拉加拉	Lagalla	环形山、坑
+拉马克	Lamarck	环形山、坑
+拉梅	Lamé	环形山、坑
+拉蒙特	Lamont	环形山、坑
+拉莫尔	Larmor	环形山、坑
+拉姆齐	Ramsay	环形山、坑
+拉瓦锡	Lavoisier	环形山、坑
+莱布尼兹	Leibnitz	环形山、坑
+兰姆	Lamb	环形山、坑
+朗道	Landau	环形山、坑
+朗格马克	Langemak	环形山、坑
+朗缪尔	Langmuir	环形山、坑
+劳厄	Laue	环形山、坑
+勒夫	Love	环形山、坑
+勒梅特	Lemaître	环形山、坑
+勒让德	Legendre	环形山、坑
+勒让蒂	Le Gentil	环形山、坑
+雷乔蒙塔努斯	Regiomontanus	环形山、坑
+楞次	Lents (Lenz)	环形山、坑
+黎曼	Riemann	环形山、坑
+李奥	Lyot	环形山、坑
+李比希	Liebig	环形山、坑
+李普曼	Lippmann	环形山、坑
+里乔利	Riccioli	环形山、坑
+利玛窦	Riccius	环形山、坑
+利普斯基	Lipskiy	环形山、坑
+列别捷夫	Lebedev	环形山、坑
+列维－齐维塔	Levi-Civita	环形山、坑
+列文虎克	Leeuwenhoek	环形山、坑
+隆哥蒙塔努斯	Longomontanus	环形山、坑
+卢克莱修	Lucretius	环形山、坑
+卢瑟福	Rutherford	环形山、坑
+伦德马克	Lundmark	环形山、坑
+伦琴	Röntgen	环形山、坑
+罗巴切夫斯基	Lobachevskiy	环形山、坑
+罗伯茨	Roberts	环形山、坑
+罗伯逊	Robertson	环形山、坑
+罗卡	Rocca	环形山、坑
+罗兰	Rowland	环形山、坑
+罗蒙诺索夫	Lomonosov	环形山、坑
+罗日杰斯特文斯基	Rozhdestvenskiy	环形山、坑
+罗森贝格尔	Rosenberger	环形山、坑
+罗素	Russell	环形山、坑
+洛伦兹	Lorentz	环形山、坑
+洛希	Roche	环形山、坑
+马赫	Mach	环形山、坑
+马可·波罗	Marco Polo	环形山、坑
+马克苏托夫	Maksutov	环形山、坑
+迈克耳孙	Michelson	环形山、坑
+迈特纳	Meitner	环形山、坑
+麦克劳林	McLaughlin	环形山、坑
+麦克马思	McMath	环形山、坑
+麦克斯韦	Maxwell	环形山、坑
+麦克唐纳	McDonald	环形山、坑
+麦哲伦	Magelhaens	环形山、坑
+曼德尔施塔姆	Mandel'shtam	环形山、坑
+梅津采夫	Mezentsev	环形山、坑
+梅森	Mersenius	环形山、坑
+梅修斯	Metius	环形山、坑
+门捷列夫	Mendeleev	环形山、坑
+蒙戈尔费埃	Montgolfier	环形山、坑
+孟德尔	Mendel	环形山、坑
+米	Mee	环形山、坑
+米尔恩	Milne	环形山、坑
+米兰科维奇	Milankovič	环形山、坑
+米勒	Miller	环形山、坑
+米奈尔	Minnaert	环形山、坑
+米特拉	Mitra	环形山、坑
+密立根	Millikan	环形山、坑
+闵科夫斯基	Minkowski	环形山、坑
+莫尔斯	Morse	环形山、坑
+莫塞莱	Moseley	环形山、坑
+墨卡托	Mercator	环形山、坑
+墨丘利	Mercurius	环形山、坑
+穆图什	Mutus	环形山、坑
+穆谢	Mouchez	环形山、坑
+南森	Nansen	环形山、坑
+能斯脱	Nernst	环形山、坑
+牛顿	Newton	环形山、坑
+努梅罗夫	Numerov	环形山、坑
+诺贝尔	Nobel	环形山、坑
+欧几里得	Euclides	环形山、坑
+欧姆	Ohm	环形山、坑
+帕克赫斯特	Parkhurst	环形山、坑
+帕帕列克西	Papaleksi	环形山、坑
+帕申	Paschen	环形山、坑
+帕斯卡	Pascal	环形山、坑
+潘格雷	Pingré	环形山、坑
+泡利	Pauli	环形山、坑
+培根	Baco	环形山、坑
+蓬泰库朗	Pontécoulant	环形山、坑
+皮科洛米尼	Piccolomini	环形山、坑
+皮亚齐	Piazzi	环形山、坑
+平山	Hirayama	环形山、坑
+坡印廷	Poynting	环形山、坑
+珀赖因	Perrine	环形山、坑
+普尔巴赫	Purbach	环形山、坑
+普拉斯基特	Plaskett	环形山、坑
+普朗克	Planck	环形山、坑
+普朗特	Prandtl	环形山、坑
+齐奥尔科夫斯基	Tsiolkovskiy	环形山、坑
+齐拉特	Szilard	环形山、坑
+恰普雷金	Chaplygin	环形山、坑
+钱柏林	Chamberlin	环形山、坑
+钱德勒	Chandler	环形山、坑
+切比雪夫	Chebyshev	环形山、坑
+让桑	Janssen	环形山、坑
+茹科夫斯基	Zhukovskiy	环形山、坑
+儒勒·凡尔纳	Jules Verne	环形山、坑
+儒略·凯撒	Julius Caesar	环形山、坑
+瑞利	Rayleigh	环形山、坑
+萨哈	Saha	环形山、坑
+萨克罗博斯科	Sacrobosco	环形山、坑
+塞曼	Zeeman	环形山、坑
+赛弗特	Seyfert	环形山、坑
+色诺芬尼	Xenophanes	环形山、坑
+沙因	Shayn	环形山、坑
+施莱辛格	Schlesinger	环形山、坑
+施吕特	Schlüter	环形山、坑
+史瓦西	Schwarzschild	环形山、坑
+舒伯特	Schubert	环形山、坑
+舒马赫	Schumacher	环形山、坑
+舒斯特	Schuster	环形山、坑
+斯科特	Scott	环形山、坑
+斯克洛多夫斯卡	Sklodowska	环形山、坑
+斯内利厄斯	Snellius	环形山、坑
+斯潘塞·琼斯	Spencer Jones	环形山、坑
+斯特宾斯	Stebbins	环形山、坑
+斯特藩	Stefan	环形山、坑
+斯特鲁维	Struve	环形山、坑
+斯文赫定	Hedin	环形山、坑
+索末菲	Sommerfeld	环形山、坑
+索思	South	环形山、坑
+汤姆孙	Thomson	环形山、坑
+特朗普勒	Trumpler	环形山、坑
+提丢斯	Titius	环形山、坑
+托勒玫	Ptolemaeus	环形山、坑
+瓦尔特	Walther	环形山、坑
+瓦斯科·达·伽马	Vasco da Gama	环形山、坑
+瓦特	Watt	环形山、坑
+瓦维洛夫	Vavilov	环形山、坑
+外尔	Weyl	环形山、坑
+威·邦德	W. Bond	环形山、坑
+威尔逊	Wilson	环形山、坑
+威廉	Wilhelm	环形山、坑
+韦伯	Weber	环形山、坑
+韦达	Vieta	环形山、坑
+韦尔纳茨基	Vernadskiy	环形山、坑
+韦格纳	Wegener	环形山、坑
+维纳	Wiener	环形山、坑
+文特里斯	Ventris	环形山、坑
+伍德	Wood	环形山、坑
+西奥菲勒斯	Theophilus	环形山、坑
+西尔斯	Seares	环形山、坑
+西哈诺	Cyrano	环形山、坑
+西科尔斯基	Sikorsky	环形山、坑
+西里尔	Cyrillus	环形山、坑
+希尔伯特	Hilbert	环形山、坑
+希吉努斯	Hyginus	环形山、坑
+席格蒙迪	Zsigmondy	环形山、坑
+席勒	Schiller	环形山、坑
+谢里曼	Schliemann	环形山、坑
+谢灵顿	Sherrington	环形山、坑
+休姆	Hume	环形山、坑
+薛定谔	Schrödinger	环形山、坑
+雅勃洛奇科夫	Yablochkov	环形山、坑
+雅可比	Jacobi	环形山、坑
+亚当斯	Adams	环形山、坑
+亚里士多德	Aristoteles	环形山、坑
+亚历山大	Alexander	环形山、坑
+扬格利	Yangel'	环形山、坑
+伊卡洛斯	Icarus	环形山、坑
+伊萨耶夫	Isaev	环形山、坑
+依巴谷	Hipparchus	环形山、坑
+因吉拉米	Inghirami	环形山、坑
+约·赫歇尔	J. Herschel	环形山、坑
+约费	Ioffe	环形山、坑
+约里奥	Joliot	环形山、坑
+泽莫纳克斯	Demonax	环形山、坑
+兹威基	Zwicky	环形山、坑
+德森萨斯平原	Planitia Descensus	平原
+阿尔泰峭壁	Rupes Altai	峭壁，崖
+开尔文峭壁	Rupes Kelvin	峭壁，崖
+直壁	Rupes Recta	峭壁，崖
+阿尔杜伊诺山脊	Dorsum Arduino	山脊
+阿尔甘山脊	Dorsa Argand	山脊
+奥佩尔山脊	Dorsum Oppel	山脊
+巴洛山脊	Dorsa Barlow	山脊
+达纳山脊	Dorsa Dana	山脊
+盖基山脊	Dorsa Geikie	山脊
+葛利普山脊	Dorsum Grabau	山脊
+哈克山脊	Dorsa Harker	山脊
+海姆山脊	Dorsum Heim	山脊
+库什曼山脊	Dorsum Cushman	山脊
+齐克尔山脊	Dorsum Zirkel	山脊
+施蒂勒山脊	Dorsa Stille	山脊
+索比山脊	Dorsa Sorby	山脊
+泰尔米埃山脊	Dorsum Termier	山脊
+尤因山脊	Dorsa Ewing	山脊
+安培山	Mons Ampère	山、山脉
+惠更斯山	Mons Huygens	山、山脉
+吕姆克山	Mons Rümker	山、山脉
+皮科山	Mons Pico	山、山脉
+皮通山	Mons Piton	山、山脉
+勃朗峰	Mont Blanc	山、山脉
+阿尔卑斯山脉	Montes Alpes	山、山脉
+阿格里科拉山脉	Montes Agricola	山、山脉
+比利牛斯山脉	Montes Pyrenaeus	山、山脉
+高加索山脉	Montes Caucasus	山、山脉
+海玛斯山脉	Montes Haemus	山、山脉
+金牛山脉	Montes Taurus	山、山脉
+喀尔巴阡山脉	Montes Carpatus	山、山脉
+科迪勒拉山脉	Montes Cordillera	山、山脉
+里菲山脉	Montes Riphaeus	山、山脉
+施皮茨贝尔根山脉	Montes Spitzbergen	山、山脉
+特内里费山脉	Montes Teneriffe	山、山脉
+亚平宁山脉	Montes Apenninus	山、山脉
+直列山脉	Montes Recti	山、山脉
+侏罗山脉	Montes Jura	山、山脉
+风暴洋	Oceanus Procellarum	洋
+阿尔卑斯大峡谷	Vallis Alpes	月谷
+布瓦尔谷	Vallis Bouvard	月谷
+澄海	Mare Serenitatis	月海
+岛海	Mare Insularum	月海
+东海	Mare Orientale	月海
+丰富海	Mare Fecunditatis	月海
+洪堡海	Mare Humboldtianum	月海
+界海	Mare Marginis	月海
+静海	Mare Tranquillitatis	月海
+酒海	Mare Nectaris	月海
+浪海	Mare Undarum	月海
+冷海	Mare Frigoris	月海
+莫斯科海	Mare Moscoviense	月海
+南海	Mare Australe	月海
+泡沫海	Mare Spumans	月海
+汽海	Mare Vaporum	月海
+蛇海	Mare Anguis	月海
+湿海	Mare Humorum	月海
+史密斯海	Mare Smythii	月海
+危海	Mare Crisium	月海
+雨海	Mare Imbrium	月海
+云海	Mare Nubium	月海
+知海	Mare Cognitum	月海
+智海	Mare Ingenii	月海
+长存湖	Lacus Perseverantiae	月湖
+春湖	Lacus Veris	月湖
+孤独湖	Lacus Solitudinis	月湖
+欢乐湖	Lacus Gaudii	月湖
+恐怖湖	Lacus Timoris	月湖
+梦湖	Lacus Somniorum	月湖
+秋湖	Lacus Autumni	月湖
+仁慈湖	Lacus Bonitatis	月湖
+时令湖	Lacus Temporis	月湖
+死湖	Lacus Mortis	月湖
+温柔湖	Lacus Lenitatis	月湖
+希望湖	Lacus Spei	月湖
+夏湖	Lacus Aestatis	月湖
+幸福湖	Lacus Felicitatis	月湖
+秀丽湖	Lacus Excellentiae	月湖
+忧伤湖	Lacus Doloris	月湖
+怨恨湖	Lacus Odii	月湖
+爱湾	Sinus Amoris	月湾
+成功湾	Sinus Successus	月湾
+和谐湾	Sinus Concordiae	月湾
+虹湾	Sinus Iridum	月湾
+狂暴湾	Sinus Asperitatis	月湾
+浪湾	Sinus Aestuum	月湾
+露湾	Sinus Roris	月湾
+眉月湾	Sinus Lunicus	月湾
+荣誉湾	Sinus Honoris	月湾
+信赖湾	Sinus Fidei	月湾
+中央湾	Sinus Medii	月湾
+腐沼	Palus Putredinis	月沼
+睡沼	Palus Somni	月沼
+疫沼	Palus Epidemiarum	月沼
+阿格鲁姆海角	Promontorium Agarum	海角、岬
+阿切鲁西亚海角	Promontorium Archerusia	海角、岬
+菲涅耳海角	Promontorium Fresnel	海角、岬
+开尔文海角	Promontorium Kelvin	海角、岬
+拉普拉斯岬	Promontorium Laplace	海角、岬
+泰纳里厄姆海角	Promontorium Taenarium	海角、岬
+阿波罗尼奥斯	Apollonius	环形山、坑
+阿尔塔莫诺夫	Artamonov	环形山、坑
+阿尔扎赫尔	Arzachel	环形山、坑
+阿米奇	Amici	环形山、坑
+阿那克西曼德	Anaximander	环形山、坑
+阿努钦	Anuchin	环形山、坑
+阿诺尔德	Arnold	环形山、坑
+阿普顿	Appleton	环形山、坑
+阿维森纳	Avicenna	环形山、坑
+埃尔维	Elvey	环形山、坑
+埃弗谢德	Evershed	环形山、坑
+埃罗	Erro	环形山、坑
+埃文斯	Evans	环形山、坑
+埃因托芬	Einthoven	环形山、坑
+艾布o 菲达	Abulfeda	环形山、坑
+艾克曼	Eijkman	环形山、坑
+安东尼亚迪	Antoniadi	环形山、坑
+奥伯斯	Olbers	环形山、坑
+奥伯特	Oberth	环形山、坑
+奥布鲁切夫	Obruchev	环形山、坑
+奥戴	O'Day	环形山、坑
+奥肯	Oken	环形山、坑
+奥雷姆	Oresme	环形山、坑
+巴巴	Bhabha	环形山、坑
+巴德	Baade	环形山、坑
+巴尔比耶	Barbier	环形山、坑
+巴尔代	Baldet	环形山、坑
+巴尔沃亚	Balboa	环形山、坑
+巴克伦德	Backlund	环形山、坑
+巴纳赫维奇	Banachiewicz	环形山、坑
+巴特尔斯	Bartels	环形山、坑
+拜耶林克	Beijerinck	环形山、坑
+邦普朗	Bonpland	环形山、坑
+贝采利乌斯	Berzelius	环形山、坑
+贝罗索斯	Berosus	环形山、坑
+贝奇瓦日	Bečvář	环形山、坑
+本生	Bunsen	环形山、坑
+比松	Buisson	环形山、坑
+比兴	Büsching	环形山、坑
+彼得罗帕夫洛夫斯基	Petropavlovskiy	环形山、坑
+彼得曼	Petermann	环形山、坑
+别利亚耶夫	Belyaev	环形山、坑
+别林斯高晋	Bellinsgauzen (Bellingshausen)	环形山、坑
+别洛波利斯基	Belopol'skiy	环形山、坑
+波波夫	Popov	环形山、坑
+波尔祖诺夫	Polzunov	环形山、坑
+波特	Porter	环形山、坑
+波西	Pawsey	环形山、坑
+玻意耳	Boyle	环形山、坑
+伯尔拉赫	Berlage	环形山、坑
+伯克兰	Birkeland	环形山、坑
+博尔曼	Borman	环形山、坑
+博古斯瓦夫斯基	Boguslawsky	环形山、坑
+博蒙	Beaumont	环形山、坑
+布尔	Boole	环形山、坑
+布尔克哈特	Burckhardt	环形山、坑
+布赫	Buch	环形山、坑
+布拉日科	Blazhko	环形山、坑
+布拉希尔	Brashear	环形山、坑
+布朗克	Bronk	环形山、坑
+布列季欣	Bredikhin	环形山、坑
+布隆内尔	Brunner	环形山、坑
+采拉斯基	Tseraskiy (Ceraski)	环形山、坑
+查理士	Challis	环形山、坑
+达朗伯	d'Alembert	环形山、坑
+代达罗斯	Daedalus	环形山、坑
+戴森	Dyson	环形山、坑
+戴维孙	Davisson	环形山、坑
+丹戎	Danjon	环形山、坑
+德费尔	Doerfel	环形山、坑
+德弗里斯	De Vries	环形山、坑
+德福雷斯特	De Forest	环形山、坑
+德赖登	Dryden	环形山、坑
+德朗布尔	Delambre	环形山、坑
+蒂塞利乌斯	Tiselius	环形山、坑
+蒂森	Thiessen	环形山、坑
+杜比亚戈	Dubyago	环形山、坑
+杜根	Dugan	环形山、坑
+杜奈尔	Dunér	环形山、坑
+杜瓦	Dewar	环形山、坑
+多佩尔迈尔	Doppelmayer	环形山、坑
+厄拉多塞	Eratosthenes	环形山、坑
+菲茨杰拉德	Fitzgerald	环形山、坑
+菲尔索夫	Firsov	环形山、坑
+菲洛劳斯	Philolaus	环形山、坑
+芬宁梅因纳斯	Vening Meinesz	环形山、坑
+芬森	Finsen	环形山、坑
+冯·布劳恩	von Braun	环形山、坑
+冯·蔡佩尔	Von Zeipel	环形山、坑
+冯·德·帕伦	Von der Pahlen	环形山、坑
+夫琅和费	Fraunhofer	环形山、坑
+弗拉·毛罗	Fra Mauro	环形山、坑
+弗勒利希	Froelich	环形山、坑
+弗洛里	Florey	环形山、坑
+甘斯文特	Ganswindt	环形山、坑
+戈尔德施米特	Goldschmidt	环形山、坑
+格里索姆	Grissom	环形山、坑
+格林	Green	环形山、坑
+古姆	Gum	环形山、坑
+哈伯	Haber	环形山、坑
+哈根	Hagen	环形山、坑
+哈里奥特	Harriot	环形山、坑
+哈伦	Harlan	环形山、坑
+哈特曼	Hartmann	环形山、坑
+哈维	Harvey	环形山、坑
+海代尔瓦里	Hédervári	环形山、坑
+海曼斯	Heymans	环形山、坑
+海因泽尔	Hainzel	环形山、坑
+赫顿	Hutton	环形山、坑
+赫沃尔松	Khvol'son	环形山、坑
+霍普曼	Hopmann	环形山、坑
+基歇尔	Kircher	环形山、坑
+吉布斯	Gibbs	环形山、坑
+吉尔	Gill	环形山、坑
+季霍米罗夫	Tikhomirov	环形山、坑
+季米里亚泽夫	Timiryazev	环形山、坑
+加多姆斯基	Gadomski	环形山、坑
+加夫里洛夫	Gavrilov	环形山、坑
+加拉维托	Garavito	环形山、坑
+金	King	环形山、坑
+居里克	Guericke	环形山、坑
+卡弗	Carver	环形山、坑
+卡勒	Karrer	环形山、坑
+卡彭特	Carpenter	环形山、坑
+卡塞格林	Cassegrain	环形山、坑
+卡文迪什	Cavendish	环形山、坑
+卡西尼	Cassini	环形山、坑
+卡耶	Cailleux	环形山、坑
+卡约里	Cajori	环形山、坑
+开默林·昂内斯	Kamerlingh Onnes	环形山、坑
+凯恩	Kane	环形山、坑
+凯特尔	Quételet	环形山、坑
+凯伊士	Kiess	环形山、坑
+坎尼扎罗	Cannizzaro	环形山、坑
+坎农	Cannon	环形山、坑
+康格里夫	Congreve	环形山、坑
+考克饶夫	Cockcroft	环形山、坑
+柯克伍德	Kirkwood	环形山、坑
+科尔许特	Kohlschütter	环形山、坑
+科里	Cori	环形山、坑
+科姆里	Comrie	环形山、坑
+科斯京斯基	Kostinskiy	环形山、坑
+克拉夫特	Krafft	环形山、坑
+克拉索夫斯基	Krasovskiy	环形山、坑
+克雷莫纳	Cremona	环形山、坑
+克卢特	Klute	环形山、坑
+克罗科	Crocco	环形山、坑
+克罗姆林	Crommelin	环形山、坑
+孔德拉秋克	Kondratyuk	环形山、坑
+孔多塞	Condorcet	环形山、坑
+库尔提乌斯	Curtius	环形山、坑
+库格勒	Kugler	环形山、坑
+库利克	Kulik	环形山、坑
+拉德	Lade	环形山、坑
+拉基尼	Lacchini	环形山、坑
+拉卡耶	La Caille	环形山、坑
+拉姆福德	Rumford	环形山、坑
+拉祖莫夫	Razumov	环形山、坑
+莱恩	Lane	环形山、坑
+莱克塞尔	Lexell	环形山、坑
+莱曼	Lyman	环形山、坑
+莱伊	Ley	环形山、坑
+兰利	Langley	环形山、坑
+朗之万	Langevin	环形山、坑
+劳里森	Lauritsen	环形山、坑
+勒曼	Lehmann	环形山、坑
+勒莫尼耶	Le Monnier	环形山、坑
+勒特罗纳	Letronne	环形山、坑
+雷亨巴赫	Reichenbach	环形山、坑
+雷蒙	Raimond	环形山、坑
+雷宁	Rynin	环形山、坑
+里查孙	Richardson	环形山、坑
+里茨	Ritz	环形山、坑
+里科	Ricco	环形山、坑
+列别金斯基	Lebedinskiy	环形山、坑
+林德布拉德	Lindblad	环形山、坑
+林德瑙	Lindenau	环形山、坑
+留基伯	Leucippus	环形山、坑
+罗茨利	Wrottesley	环形山、坑
+罗斯兰	Rosseland	环形山、坑
+洛德金	Lodygin	环形山、坑
+洛夫莱斯	Lovelace	环形山、坑
+洛威尔	Lowell	环形山、坑
+马可尼	Marconi	环形山、坑
+马克罗比乌斯	Macrobius	环形山、坑
+马里纳斯	Marinus	环形山、坑
+马利特	Mallet	环形山、坑
+马略特	Mariotte	环形山、坑
+麦比乌斯	M?bius	环形山、坑
+麦凯勒	McKellar	环形山、坑
+麦克劳林	MacLaurin	环形山、坑
+麦奇生	Murchison	环形山、坑
+梅格斯	Meggers	环形山、坑
+梅里尔	Merrill	环形山、坑
+梅谢尔斯基	Meshcherskiy	环形山、坑
+蒙德	Maunder	环形山、坑
+蒙塔纳里	Montanari	环形山、坑
+米纳尔	Mineur	环形山、坑
+米斯	Mees	环形山、坑
+莫霍洛维奇	Mohoróvičic	环形山、坑
+莫雷	Moretus	环形山、坑
+莫伊谢耶夫	Moiseev	环形山、坑
+穆尔	Moore	环形山、坑
+内安德	Neander	环形山、坑
+纳史密斯	Nasmyth	环形山、坑
+纳索	Nassau	环形山、坑
+奈阿尔科	Nearch	环形山、坑
+尼埃普斯	Niépce	环形山、坑
+努内斯	Nonius	环形山、坑
+努斯尔	Nüsl	环形山、坑
+诺毕尔	Nobile	环形山、坑
+诺伊迈尔	Neumayer	环形山、坑
+欧多克索斯	Eudoxus	环形山、坑
+欧玛尔·海亚姆	Omar Khayyam	环形山、坑
+帕罗特	Parrot	环形山、坑
+帕内特	Paneth	环形山、坑
+庞加莱	Poincaré	环形山、坑
+佩列佩尔金	Perepelkin	环形山、坑
+彭赛列	Poncelet	环形山、坑
+彭特兰	Pentland	环形山、坑
+蓬塔诺	Pontanus	环形山、坑
+皮尔凯	Pirquet	环形山、坑
+皮克泰	Pictet	环形山、坑
+皮拉特尔	Pilâtre	环形山、坑
+皮里	Peary	环形山、坑
+珀金	Perkin	环形山、坑
+普拉格	Prager	环形山、坑
+普里斯特利	Priestley	环形山、坑
+普卢默	Plummer	环形山、坑
+普卢塔克	Plutarch	环形山、坑
+普罗克特	Proctor	环形山、坑
+切尔内绍夫	Chernyshev	环形山、坑
+仁科芳雄	Nishina	环形山、坑
+萨尔顿	Sarton	环形山、坑
+萨姆纳	Sumner	环形山、坑
+赛德尔	Seidel	环形山、坑
+桑福德	Sanford	环形山、坑
+森格尔	Saenger	环形山、坑
+沙科纳克	Chacornac	环形山、坑
+沙利叶	Charlier	环形山、坑
+沙罗诺夫	Sharonov	环形山、坑
+沙佩	Chappe	环形山、坑
+沙伊纳	Scheiner	环形山、坑
+山本一清	Yamamoto	环形山、坑
+商博良	Champollion	环形山、坑
+舍贝勒	Schaeberle	环形山、坑
+圣约翰	St. John	环形山、坑
+施内勒尔	Schneller	环形山、坑
+斯卡利杰	Scaliger	环形山、坑
+斯科斯比	Scoresby	环形山、坑
+斯里弗	Slipher	环形山、坑
+斯莫卢霍夫斯基	Smoluchowski	环形山、坑
+斯塔迪乌斯	Stadius	环形山、坑
+斯特拉博	Strabo	环形山、坑
+斯特拉顿	Stratton	环形山、坑
+斯特里特	Street	环形山、坑
+斯特龙根	Strömgren	环形山、坑
+斯特森	Stetson	环形山、坑
+斯托克斯	Stokes	环形山、坑
+苏博京	Subbotin	环形山、坑
+索绪尔	Saussure	环形山、坑
+泰塞朗·德博尔	Teisserenc	环形山、坑
+唐纳	Donner	环形山、坑
+威尔金斯	Wilkins	环形山、坑
+韦加	Vega	环形山、坑
+韦克斯勒	Wexler	环形山、坑
+韦钦金	Vetchinkin	环形山、坑
+维尔纳	Werner	环形山、坑
+维萨里	Vesalius	环形山、坑
+魏斯	Weiss	环形山、坑
+沃尔泰拉	Volterra	环形山、坑
+沃森	Watson	环形山、坑
+沃特曼	Waterman	环形山、坑
+乌佐	Houzeau	环形山、坑
+西丹努斯	Kidinnu	环形山、坑
+西登托普夫	Siedentopf	环形山、坑
+西尔维斯特	Sylvester	环形山、坑
+希波克拉底	Hippocrates	环形山、坑
+希拉卡齐	Shirakatsi	环形山、坑
+肖夫内	Chauvenet	环形山、坑
+肖特	Short	环形山、坑
+谢尔平斯基	Sierpinski	环形山、坑
+谢切诺夫	Sechenov	环形山、坑
+谢瓦利尔	Chevallier	环形山、坑
+休梅克	Shoemaker	环形山、坑
+央斯基	Jansky	环形山、坑
+杨	Young	环形山、坑
+叶夫多基莫夫	Evdokimov	环形山、坑
+伊本·尤努斯	Ibn Yunus	环形山、坑
+扎奇	Zach	环形山、坑
+詹纳	Jenner	环形山、坑
+芝诺	Zeno	环形山、坑
+祖基	Zucchius	环形山、坑
+柯西峭壁	Rupes Cauchy	峭壁
+李比希峭壁	Rupes Liebig	峭壁
+墨卡托峭壁	Rupes Mercator	峭壁
+托斯卡内利峭壁	Rupes Toscanelli	峭壁
+阿尔德罗万迪山脊	Dorsa Aldrovandi	山脊
+安德鲁索夫山脊	Dorsa Andrusov	山脊
+伯内特山脊	Dorsa Burnet	山脊
+惠斯顿山脊	Dorsa Whiston	山脊
+加图山脊	Dorsa Cato	山脊
+利斯特山脊	Dorsa Lister	山脊
+鲁比山脊	Dorsa Rubey	山脊
+莫森山脊	Dorsa Mawson	山脊
+斯米尔诺夫山脊	Dorsa Smirnov	山脊
+阿萨拉山脊	Dorsum Azara	山脊
+巴克兰山脊	Dorsum Buckland	山脊
+布赫山脊	Dorsum Bucher	山脊
+冯·科塔山脊	Dorsum Von Cotta	山脊
+加斯特山脊	Dorsum Gast	山脊
+卡耶山脊	Dorsum Cayeux	山脊
+克洛斯山脊	Dorsum Cloos	山脊
+尼格利山脊	Dorsum Niggli	山脊
+尼科尔山脊	Dorsum Nicol	山脊
+欧文山脊	Dorsum Owen	山脊
+希拉山脊	Dorsum Scilla	山脊
+阿尔加山	Mons Argaeus	山、山脉
+阿基米德山脉	Montes Archimedes	山、山脉
+鲁克山脉	Montes Rook	山、山脉
+塞奇山脉	Montes Secchi	山、山脉
+巴德谷	Vallis Baade	月谷
+普朗克谷	Vallis Planck	月谷
+斯内利厄斯谷	Vallis Snellius	月谷
+薛定谔谷	Vallis Schr  dinger	月谷
+因吉拉米谷	Vallis Inghirami	月谷
+阿尔塔莫诺夫坑链	Catena Artamonov	坑链
+艾布·菲达坑链	Catena Abulfeda	坑链
+戴维坑链	Catena Davy	坑链
+洪堡坑链	Catena Humboldt	坑链
+杰武尔斯基坑链	Catena Dziewulski	坑链
+克拉夫特坑链	Catena Krafft	坑链
+库尔恰托夫坑链	Catena Kurchatov	坑链
+卢克莱修坑链	Catena Lucretius (RNII)	坑链
+门捷列夫坑链	Catena Mendeleev	坑链
+萨姆纳坑链	Catena Sumner	坑链
+西尔维斯特坑链	Catena Sylvester	坑链
+冬湖	Lacus Hiemalis	月湖
+华贵湖	Lacus Luxuriae	月湖
+阿尔齐莫维奇溪	Rima Artsimovich	月溪
+阿格里科拉溪	Rima Agricola	月溪
+阿格瑟奇德斯溪	Rima Agatharchides	月溪
+阿里亚代乌斯溪	Rima Ariadaeus	月溪
+阿契塔溪	Rima Archytas	月溪
+奥波尔策溪	Rima Oppolzer	月溪
+比伊溪	Rima Billy	月溪
+伯特溪	Rima Birt	月溪
+布雷利溪	Rima Brayley	月溪
+德雷伯溪	Rima Draper	月溪
+德利尔溪	Rima Delisle	月溪
+丢番图溪	Rima Diophantus	月溪
+弗拉马里翁溪	Rima Flammarion	月溪
+伽利略溪	Rima Galilaei	月溪
+哈德利溪	Rima Hadley	月溪
+赫西奥德溪	Rima Hesiodus	月溪
+柯西溪	Rima Cauchy	月溪
+马里乌斯溪	Rima Marius	月溪
+梅西叶溪	Rima Messier	月溪
+欧拉溪	Rima Euler	月溪
+乔·邦德溪	Rima G.Bond	月溪
+托·迈耶溪	Rima T.Mayer	月溪
+希吉努斯溪	Rima Hyginus	月溪
+希普尚克斯溪	Rima Sheepshanks	月溪
+夏普溪	Rima Sharp	月溪
+休斯溪	Rima Suess	月溪
+阿波罗尼奥斯溪	Rimae Apollonius	月溪
+阿尔扎赫尔溪	Rimae Arzachel	月溪
+阿方索溪	Rimae Alphonsus	月溪
+阿基米德溪	Rimae Archimedes	月溪
+阿利斯塔克溪	Rimae Aristarchus	月溪
+阿特拉斯溪	Rimae Atlas	月溪
+柏拉图溪	Rimae Plato	月溪
+比格溪	Rimae Bürg	月溪
+波得溪	Rimae Bode	月溪
+达·伽马溪	Rimae Vasco da Gama	月溪
+达尔文溪	Rimae Darwin	月溪
+丹聂耳溪	Rimae Daniell	月溪
+多佩尔迈尔溪	Rimae Doppelmayer	月溪
+菲涅耳溪	Rimae Fresnel	月溪
+伽桑狄溪	Rimae Gassendi	月溪
+格里马尔迪溪	Rimae Grimaldi	月溪
+谷登堡溪	Rimae Gutenberg	月溪
+哈泽溪	Rimae Hase	月溪
+赫维留溪	Rimae Hevelius	月溪
+加卢斯溪	Rimae Sulpicius Gallus	月溪
+拉姆斯登溪	Rimae Ramsden	月溪
+里乔利溪	Rimae Riccioli	月溪
+里特尔溪	Rimae Ritter	月溪
+利特罗夫溪	Rimae Littrow	月溪
+罗默溪	Rimae Römer	月溪
+麦克利尔溪	Rimae Maclear	月溪
+梅森溪	Rimae Mersenius	月溪
+梅斯特林溪	Rimae Maestlin	月溪
+米尼劳斯溪	Rimae Menelaus	月溪
+莫佩尔蒂溪	Rimae Maupertuis	月溪
+帕里溪	Rimae Parry	月溪
+佩蒂特溪	Rimae Pettit	月溪
+普利纽斯溪	Rimae Plinius	月溪
+普林茨溪	Rimae Prinz	月溪
+让桑溪	Rimae Janssen	月溪
+索西琴尼溪	Rimae Sosigenes	月溪
+特埃特图斯溪	Rimae Theaetetus	月溪
+希帕蒂娅溪	Rimae Hypatia	月溪
+祖皮溪	Rimae Zupus	月溪
+赫拉克利德海角	Promontorium Heraclides	海角
