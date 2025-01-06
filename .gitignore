@@ -1,0 +1,15 @@
+# macos
+.DS_Store
+
+# linux
+*~
+
+todo/
+temp/
+trash/
+
+*.*
+
+!.gitignore
+!*.txt
+!*.md
