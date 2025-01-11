@@ -93,4 +93,5 @@
 - 中文、日文、英文人名语料库：https://github.com/wainshine/Chinese-Names-Corpus
 - CCNC 大型中文姓名语料库 https://github.com/jaaack-wang/ccnc
 - NER 数据集 https://github.com/GuocaiL/nlp_corpus
-- 公司和机构名语料库https://github.com/wainshine/Company-Names-Corpus
+- 公司和机构名语料库 https://github.com/wainshine/Company-Names-Corpus
+- 领域词汇知识库（涵盖 68 个领域、共计 916 万词） https://github.com/liuhuanyong/DomainWordsDict
