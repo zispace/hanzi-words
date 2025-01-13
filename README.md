@@ -46,10 +46,7 @@
   - [x] [《第一批异形词整理表》][moe-yixingci] 2001 年：338 组异形词以及【附录】含有非规范字的异形词（44 组）
   - [x] 《第二批异形词（草案）》非正式文件
   - [ ] 《现代汉语异形词规范手册》上海辞书出版社
-- 其他词表
-  - 古代年号
-  - 词牌名
-  - ……
+- 在线词典数据
 
 [moe-yixingci]: http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201001/t20100115_75687.html
 
@@ -57,41 +54,3 @@
 
 - 人名
 - 地名
-
----
-
-## 补充资料
-
-### 词典类资料
-
-- 《现代汉语方言大词典》（PDF） <https://github.com/ZWolken/Great-Dictionary-of-Modern-Chinese-Dialects>
-- 人名(人物、名人、文学家、字号、名字)词典索引 https://forum.freemdict.com/t/topic/15726
-- 人名地名类辞典 10 部 https://forum.freemdict.com/t/topic/33176
-
-### 输入法词库
-
-- 搜狗输入法细胞词库 <https://github.com/zispace/dict-scel>, <https://pinyin.sogou.com/dict/>
-- Rime 配置：雾凇拼音（简体词库） https://github.com/iDvel/rime-ice
-- Rime 配置：白霜拼音 https://github.com/gaboolic/rime-frost
-- 中文维基百科拼音词库（Fcitx 5） https://github.com/felixonmars/fcitx5-pinyin-zhwiki
-- 单手笔顺输入法码表: <https://gitee.com/yq-ysy/one-hand_code> <https://github.com/YQ-YSY/stroke-seq_MB>
-- 自建拼音输入法词库（Fcitx5/GBoard） https://github.com/wuhgit/CustomPinyinDictionary
-- Gboard 词库语料库 https://github.com/entr0pia/corpus-of-gboard_dict_3
-
-### 通用词库
-
-- HanLP 词库 https://github.com/hankcs/HanLP
-  - 数据包 [data-for-1.7.5.zip](https://file.hankcs.com/hanlp/data-for-1.7.5.zip)
-- 敏感词/审查词汇总：https://github.com/hantang/data-corpus/tree/main/censorship
-- 同义词 https://github.com/jaaack-wang/Chinese-Synonyms
-  - 哈工大同义词词林扩展版 https://github.com/BiLiangLtd/WordSimilarity/tree/master/data, https://www.ltp-cloud.com/download
-  - 同义词词林（梅家驹等，1983 年） https://forum.freemdict.com/t/topic/1211
-- THUOCL 中文词库（IT、财经、成语、地名、历史名人、诗词、、医学、饮食、法律、汽车、动物等类）https://github.com/thunlp/THUOCL
-
-### 专名类词库
-
-- 中文、日文、英文人名语料库：https://github.com/wainshine/Chinese-Names-Corpus
-- CCNC 大型中文姓名语料库 https://github.com/jaaack-wang/ccnc
-- NER 数据集 https://github.com/GuocaiL/nlp_corpus
-- 公司和机构名语料库 https://github.com/wainshine/Company-Names-Corpus
-- 领域词汇知识库（涵盖 68 个领域、共计 916 万词） https://github.com/liuhuanyong/DomainWordsDict
