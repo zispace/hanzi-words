@@ -4,7 +4,7 @@
 # https://gjxy.gpnu.edu.cn/info/1141/1373.htm
 # https://eol.bnuz.edu.cn/meol/common/script/preview/download_preview.jsp?fileid=1667731&resid=198625&lid=26493
 # 共8822词：甲级词(1033)，乙级词(2018)，丙级词(2202)，丁级词(3569)
-# 
+#
 # 词汇	序号	分级
 
 啊	1	甲级

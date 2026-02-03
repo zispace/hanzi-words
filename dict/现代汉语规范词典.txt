@@ -74010,7 +74010,7 @@ Y染色体	Y染色体	Y rǎnsètǐ
 长卷	长卷	chángjuàn
 长号	长号	chánghào
 长叹	长叹	chángtàn
-长吁短叹	长吁短叹	chángxū-duǎntàn 
+长吁短叹	长吁短叹	chángxū-duǎntàn
 长吟	长吟	chángyín
 长命百岁	长命百岁	chángmìng-bǎisuì
 长命锁	长命锁	chángmìngsuǒ

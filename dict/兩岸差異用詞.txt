@@ -2,7 +2,7 @@
 # https://github.com/g0v/moedict-data-csld/blob/master/兩岸差異用詞.xlsx
 # https://dict.concised.moe.edu.tw/appendix.jsp?ID=54
 # 差異別: 1=兩岸同實異名-753; 2=兩岸同名異實-97; 3=臺灣特有-801; 4=大陸特有-3301
-# 
+#
 # 臺灣詞	大陸詞	差異別
 
 三角皮帶	三角帶	1
