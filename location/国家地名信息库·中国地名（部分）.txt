@@ -50096,7 +50096,7 @@ nai皮冲	农村居民点	Naipíchōng
 永乐社区居民委员会	社区居委会（居委会）	Yǒnglèshèqū Jūmínwěiyuánhuì
 中张良沟	农村居民点	Zhōngzhāngliánggōu
 塑料厂街	支路	Sùliàochǎng Jiē
-萨如塔拉嘎查	村民委员会	　Sarûûl Tal Gaqaa
+萨如塔拉嘎查	村民委员会	Sarûûl Tal Gaqaa
 北李楼	农村居民点	Běilǐlóu
 查卓松多	河滩	Cházhuósōngduō
 黑龙泉村民委员会	村民委员会	Hēilóngquán Cūnmínwěiyuánhuì
@@ -79007,7 +79007,7 @@ nai皮冲	农村居民点	Naipíchōng
 大海流村	农村居民点	Dàhǎiliúcūn
 大德堂村	农村居民点	Dàdétáng Cūn
 二柳庄	农村居民点	Èrliǔzhuāng
-董浪村民委员会	村民委员会	Dǒnglàng Cūnmínwěiyuánhuì 　
+董浪村民委员会	村民委员会	Dǒnglàng Cūnmínwěiyuánhuì 
 新佃	农村居民点	Xīndiàn
 格宁果	山	Géníngguǒ
 安号	农村居民点	Ānhào
@@ -231943,7 +231943,7 @@ D区大道	主干路	Dqū Dàdào
 披智合	山谷、谷地	Pīzhìhé
 烧香平	山	Shāoxiāngpíng
 城西大道	主干路	Chéngxī Dàdào
-竜金	农村居民点	Néngjīn　
+竜金	农村居民点	Néngjīn
 妥索	农村居民点	Tuǒsuǒ
 高尔毕锡力	山	Gôrbin Xil
 莫霍尔本龙	山谷、谷地	Mòhuò'ěr Běnlóng
@@ -277935,7 +277935,7 @@ Z1路	次干路	Z 1 Lù
 准阿门乌素	农、林、牧场点	Juun Aman Ûs
 共和村左家	农村居民点	Gònghécūnzuǒjiā
 甘家老居村	农村居民点	Gānjiālǎojūcūn
-麻珠尔浩特	农村居民点	Maajvvr Hôt　
+麻珠尔浩特	农村居民点	Maajvvr Hôt
 周二湾	农村居民点	Zhōu'èrwān
 龙泽坑	农村居民点	Lóngzékēng
 上角坪	农村居民点	Shàngjiǎopíng

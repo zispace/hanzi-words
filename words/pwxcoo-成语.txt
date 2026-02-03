@@ -2791,7 +2791,7 @@
 长夜难明	cháng yè nán míng
 长夜之饮	cháng yè zhī yǐn
 长揖不拜	cháng yī bù bài
-长幼有序	zhǎng　yòu　yǒu　xù
+长幼有序	zhǎng yòu yǒu xù
 长幼有叙	zhǎng yòu yǒu xù
 长幼尊卑	zhǎng yòu zūn bēi
 长吁短气	cháng xū duǎn qì
@@ -2986,7 +2986,7 @@
 沉烽静柝	chén fēng jìng tuò
 沉浮俯仰	chén fú fǔ yǎng
 沉痼自若	chén gù zì ruò
-沉厚寡言	chén　hòu　guǎ　yán
+沉厚寡言	chén hòu guǎ yán
 沉静寡言	chén jìng guǎ yán
 沉疴难起	chén kē nán qǐ
 沉疴宿疾	chén kē sù jì
@@ -3014,7 +3014,7 @@
 沉冤莫雪	chén yuān mò xuě
 沉灶产蛙	chén zào chǎn wā
 沉灶生蛙	chén zào shēng wā
-沉重寡言	chén　zhòng　guǎ　yán
+沉重寡言	chén zhòng guǎ yán
 沉重少言	chén zhòng shǎo yán
 沉舟破釜	chén zhōu pò fǔ
 沉著痛快	chén zhù tòng kuài
@@ -6681,14 +6681,14 @@
 粉白黛黑	fěn bái dài hēi
 粉白黛绿	fěn bái dài lǜ
 粉白墨黑	fěn bái mò hēi
-粉骨捐躯	fěn　gǔ　juān　qū
-粉骨糜躯	fěn　gǔ　mí　qū
+粉骨捐躯	fěn gǔ juān qū
+粉骨糜躯	fěn gǔ mí qū
 粉骨糜身	fěn gǔ mí shēn
 粉骨碎身	fěn gǔ suì shēn
 粉面油头	fěn miàn yóu tóu
-粉面朱唇	fěn　miàn　zhū　chún
+粉面朱唇	fěn miàn zhū chún
 粉墨登场	fěn mò dēng chǎng
-粉身灰骨	fěn　shēn　huī　gǔ
+粉身灰骨	fěn shēn huī gǔ
 粉身碎骨	fěn shēn suì gǔ
 粉饰太平	fěn shì tài píng
 粉妆玉砌	fěn zhuāng yù qì
@@ -6847,7 +6847,7 @@
 风前残烛	fēng qián cán zhú
 风前月下	fēng qián yuè xià
 风樯阵马	fēng qiáng zhèn mǎ
-风轻云淡	fēng　qīng　yún　dàn
+风轻云淡	fēng qīng yún dàn
 风轻云净	fēng qīng yún jìng
 风清弊绝	fēng qīng bì jué
 风清月白	fēng qīng yuè bái
@@ -12624,7 +12624,7 @@
 磕头如捣	kē tóu rú dǎo
 磕牙料嘴	kē yá liào zuǐ
 咳声叹气	hāi shēng tàn qì
-咳唾成珠	ké　tuò chéng zhū
+咳唾成珠	ké tuò chéng zhū
 咳珠唾玉	ké zhū tuò yù
 可操左券	kě cāo zuǒ quàn
 可乘之机	kě chéng zhī jī
@@ -15813,9 +15813,9 @@
 泥而不滓	niè ér bù zǐ
 泥古不化	nì gǔ bù huà
 泥古非今	nì gǔ fēi jīn
-泥古拘方	nì　gǔ　jū　fāng
+泥古拘方	nì gǔ jū fāng
 泥金万点	ní jīn wàn diǎn
-泥名失实	nì　míng　shī　shí
+泥名失实	nì míng shī shí
 泥牛入海	ní niú rù hǎi
 泥蟠不滓	ní pān bù zǐ
 泥菩萨过江	ní pú sà guò jiāng
@@ -16302,7 +16302,7 @@
 批风抹月	pī fēng mò yuè
 批红判白	pī hóng pàn bái
 批亢捣虚	pī gàng dǎo xū
-批亢抵巇	pī　gāng　dǐ　xī
+批亢抵巇	pī gāng dǐ xī
 批吭捣虚	pī háng dǎo xū
 批鳞请剑	pī lín qǐng jiàn
 批毛求疵	pī máo qiú cī
@@ -17035,7 +17035,7 @@
 弃琼拾砾	qì qióng shí lì
 弃如敝屣	qì rú bì xǐ
 弃若敝屣	qì ruò bì xǐ
-弃书捐剑	qì　shū　juān　jiàn
+弃书捐剑	qì shū juān jiàn
 弃同即异	qì tóng jí yì
 弃伪从真	qì wěi cóng zhēn
 弃文存质	qì wén cún zhì
@@ -17841,7 +17841,7 @@
 情不可却	qíng bù kě què
 情不自禁	qíng bù zì jìn
 情不自已	qíng bù zì yǐ
-情长纸短	qíng　cháng　zhǐ　duǎn
+情长纸短	qíng cháng zhǐ duǎn
 情窦初开	qíng dòu chū kāi
 情非得已	qíng fēi dé yǐ
 情孚意合	qíng fú yì hé
@@ -20665,7 +20665,7 @@
 瘦骨如柴	shòu gǔ rú chái
 瘦骨梭棱	shòu gǔ léng léng
 瘦羊博士	shòu yáng bó shì
-书不尽言	shū　bù　jìn　yán
+书不尽言	shū bù jìn yán
 书不尽意	shū bù jìn yì
 书不释手	shū bù shì shǒu
 书读五车	shū dú wǔ chē
@@ -20883,7 +20883,7 @@
 谁是谁非	shuí shì shuí fēi
 水碧山青	shuǐ bì shān qīng
 水菜不交	shuǐ cài bù jiāo
-水长船高	shuǐ　zhǎng　chuán　gāo
+水长船高	shuǐ zhǎng chuán gāo
 水到渠成	shuǐ dào qú chéng
 水到鱼行	shuǐ dào yú xíng
 水滴石穿	shuǐ dī shí chuān
@@ -22199,7 +22199,7 @@
 同堂兄弟	tóng táng xiōng dì
 同条共贯	tóng tiáo gòng guàn
 同文共规	tóng wén gòng guī
-同文共轨	tóng　wén　gòng　guǐ
+同文共轨	tóng wén gòng guǐ
 同心毕力	tóng xīn bì lì
 同心并力	tóng xīn bìng lì
 同心敌忾	tóng xīn dí kài
@@ -24366,7 +24366,7 @@
 项背相望	xiàng bèi xiāng wàng
 项庄舞剑	xiàng zhuāng wǔ jiàn
 项庄舞剑，意在沛公	xiàng zhuāng wǔ jiàn，yì zài pèi gōng
-项庄舞剑，志在沛公	xiàng　zhuāng　wǔ　jiàn，zhì　zài　pèi　gōng
+项庄舞剑，志在沛公	xiàng zhuāng wǔ jiàn，zhì zài pèi gōng
 项庄之剑，志在沛公	xiàng zhuāng zhī jiàn，zhì zài pèi gōng
 象齿焚身	xiàng chǐ fén shēn
 象耕鸟耘	xiàng gēng niǎo yún
@@ -24383,7 +24383,7 @@
 像形夺名	xiàng xíng duó míng
 橡饭菁羹	xiàng fàn jīng gēng
 橡皮钉子	xiàng pí dìng zǐ
-橡茹藿歠	xiàng　rú　huò　chuò
+橡茹藿歠	xiàng rú huò chuò
 枭俊禽敌	xiāo jùn qín dí
 枭蛇鬼怪	xiāo shé guǐ guài
 枭视狼顾	xiāo shì láng gù
@@ -25057,7 +25057,7 @@
 熊心豹胆	xióng xīn bào dǎn
 熊腰虎背	xióng yāo hǔ bèi
 休兵罢战	xiū bīng bà zhàn
-休明盛世	xiū　míng　shèng　shì
+休明盛世	xiū míng shèng shì
 休牛归马	xiū niú guī mǎ
 休牛散马	xiū niú sàn mǎ
 休戚相关	xiū qī xiāng guān
@@ -25067,7 +25067,7 @@
 休养生息	xiū yǎng shēng xī
 修辞立诚	xiū cí lì chéng
 修短随化	xiū duǎn suí huà
-修旧利废	xiū　jiù　lì　fèi
+修旧利废	xiū jiù lì fèi
 修旧起废	xiū jiù qǐ fèi
 修鳞养爪	xiū lín yǎng zhǎo
 修齐治平	xiū qí zhì píng
@@ -25199,7 +25199,7 @@
 悬肠挂肚	xuán cháng guà dù
 悬车告老	xuán chē gào lǎo
 悬车束马	xuán chē shù mǎ
-悬车之年	xuán　chē　zhī　nián
+悬车之年	xuán chē zhī nián
 悬车之岁	xuán chē zhī suì
 悬车致仕	xuán chē zhì shì
 悬鹑百结	xuán chún bǎi jié
@@ -25228,7 +25228,7 @@
 悬心吊胆	xuán xīn diào dǎn
 悬悬而望	xuán xuán ér wàng
 悬崕峭壁	xuán yá qiào bì
-悬崖绝壁	xuán　yá　jué　bì
+悬崖绝壁	xuán yá jué bì
 悬崖勒马	xuán yá lè mǎ
 悬崖峭壁	xuán yá qiào bì
 悬崖撒手	xuán yá sā shǒu
@@ -26142,12 +26142,12 @@
 一唱百和	yī chàng bǎi hé
 一唱三叹	yī chàng sān tàn
 一唱一和	yī chàng yī hè
-一朝千里	yī　zhāo　qiān　lǐ
+一朝千里	yī zhāo qiān lǐ
 一朝权在手，便把令来行	yī zhāo quán zài shǒu，biàn bǎ lìng lái xí
 一朝天子一朝臣	yī cháo tiān zǐ yī cháo chén
 一朝一夕	yī zhāo yī xī
 一朝之忿	yī zhāo zhī fèn
-一朝之患	yī　zhāo　zhī　huàn
+一朝之患	yī zhāo zhī huàn
 一彻万融	yī chè wàn róng
 一尘不到	yī chén bù dào
 一尘不染	yī chén bù rǎn
@@ -27541,7 +27541,7 @@
 引吭悲歌	yǐn háng bēi gē
 引吭高唱	yǐn háng gāo chàng
 引吭高歌	yǐn háng gāo gē
-引吭高声	yǐn　háng　gāo　shēng
+引吭高声	yǐn háng gāo shēng
 引狼拒虎	yǐn láng jù hǔ
 引狼入室	yǐn láng rù shì
 引狼自卫	yǐn láng zì wèi
@@ -29355,7 +29355,7 @@
 铮铮铁汉	zhēng zhēng tiě hàn
 铮铮有声	zhēng zhēng yǒu shēng
 蒸沙成饭	zhēng shā chéng fàn
-蒸沙为饭	zhēng　shā　wéi　fàn
+蒸沙为饭	zhēng shā wéi fàn
 蒸蒸日上	zhēng zhēng rì shàng
 拯溺扶危	zhěng nì fú wēi
 整本大套	zhěng běn dà tào
@@ -29742,7 +29742,7 @@
 炙鸡渍酒	zhì jī zì jiǔ
 炙手可热	zhì shǒu kě rè
 质而不俚	zhì ér bù lǐ
-质而不野	zhì　ér　bù　yě
+质而不野	zhì ér bù yě
 质非文是	zhì fēi wén shì
 质疑辨惑	zhì yí biàn huò
 质疑问难	zhì yí wèn nàn
@@ -29958,7 +29958,7 @@
 重规袭矩	chóng guī xí jǔ
 重珪迭组	chóng guī dié zǔ
 重珪叠组	chóng guī dié zǔ
-重厚寡言	zhòng　hòu　guǎ　yán
+重厚寡言	zhòng hòu guǎ yán
 重厚少文	zhòng hòu shǎo wén
 重迹屏气	chóng jì bǐng qì
 重见天日	chóng jiàn tiān rì
@@ -30329,7 +30329,7 @@
 壮气凌云	zhuàng qì líng yún
 壮气吞牛	zhuàng qì tūn niú
 壮士断腕	zhuàng shì duàn wàn
-壮士解腕	zhuàng shì　jiě　wàn
+壮士解腕	zhuàng shì jiě wàn
 壮心不已	zhuàng xīn bù yǐ
 壮志凌云	zhuàng zhì líng yún
 壮志未酬	zhuàng zhì wèi chóu
