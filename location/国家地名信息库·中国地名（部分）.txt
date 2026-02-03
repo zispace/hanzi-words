@@ -152,7 +152,7 @@
 阿拉格嘎查	山	Alag Gaqaa
 阿布日拉音哈雅	农、林、牧场点	Abarliin Hayaa
 阿日毛都	农、林、牧场点	Ar Mod
-阿拉嘎乌拉	山	Alaɡ Ûûl
+阿拉嘎乌拉	山	Alag Ûûl
 敖润苏莫	农村居民点	Ôrôiin Som
 敖汉旗	县级行政区	Aû Han Qí
 敖吉村村民委员会	村民委员会	Ûuljar Cūn Cūnmínwěiyuánhuì
@@ -283,7 +283,7 @@
 阿必德浑迪	山谷、谷地	Abid Hondi
 阿日音舒林浑迪	山谷、谷地	Arìyīnshūlín Hundii
 艾来浑迪	山谷、谷地	Alai Hondei
-阿德尔嘎	山	Adaraɡ
+阿德尔嘎	山	Adarag
 敖伦陶勒盖	山	Ôlôn Tôlgôô
 敖日其格音塔拉	农、林、牧场点	Oorqigiin Tal
 阿日查音高勒	农、林、牧场点	Arqiin Gol
@@ -8571,7 +8571,7 @@
 丁官路	支路	Dīngguān Lù
 姐午	农村居民点	Jiěwǔ
 荷塔周家	农村居民点	Hétǎzhōujiā
-翁根艾勒	农村居民点	Ônɡôn'ail
+翁根艾勒	农村居民点	Ôngôn'ail
 大杨庄	农村居民点	Dàyángzhuāng
 下茶坪	农村居民点	Xiàchápíng
 报滩北庄	农村居民点	Bàotānběizhuāng
@@ -8664,7 +8664,7 @@
 爱群村民委员会	村民委员会	Àiqún Cūnmínwěiyuánhuì
 苏家屋场	农村居民点	Sūjiāwūchǎng
 谒王庄	农村居民点	Yèwángzhuāng
-固日班格日	农村居民点	Gûrbɑnɡer
+固日班格日	农村居民点	Gûrbɑnger
 友谊四社	农村居民点	Yǒuyìsìshè
 连心路	支路	Liánxīn Lù
 瓦里滩	河滩	Wǎlǐtān
@@ -8887,7 +8887,7 @@
 斯亥克	山坡	Sīhàikè
 九龙尖	山峰	Jiǔlóng Jiān
 黄家坊	农村居民点	Huángjiāfāng
-准巴彦哈嘎	农村居民点	Juunbɑyɑnhɑɡ
+准巴彦哈嘎	农村居民点	Juunbɑyɑnhɑg
 浃溪丁家	农村居民点	Jiāxīdīngjiā
 洲坝	农村居民点	Zhōubà
 天井坑	农村居民点	Tiānjǐngkēng
@@ -11128,7 +11128,7 @@
 峨毛村民委员会	村民委员会	Émáo Cūnmínwěiyuánhuì
 张桥	农村居民点	Zhāngqiáo
 且美尕东	山	Chume Kardong
-翁根毛都诺尔	湖泊	Ȏnɡɡôn Môd Nûûr
+翁根毛都诺尔	湖泊	Ȏnggôn Môd Nûûr
 上佐	农村居民点	Shàngzuǒ
 外大洋	农村居民点	Wàidàyáng
 马扎	农村居民点	Mǎzhā
@@ -14726,7 +14726,7 @@
 里芦甫	农村居民点	Lǐlúfǔ
 蛮赖	农村居民点	Mánlài
 窑头居民委员会	社区居委会（居委会）	Yáotou Jūmínwěiyuánhuì
-协日堂	农村居民点	Xɑrtɑnɡ
+协日堂	农村居民点	Xɑrtɑng
 后闫官庄	农村居民点	Hòuyánguānzhuāng
 留德詹家	农村居民点	Liúdézhānjiā
 茗坑口	农村居民点	Míngkēngkǒu
@@ -35905,14 +35905,14 @@ nai皮冲	农村居民点	Naipíchōng
 班琼囊	山谷、谷地	Bānqióngnáng
 牛场梁	农村居民点	Niúchǎngliáng
 钱岗刘家	农村居民点	Qiángǎngliújiā
-中乃村民委员会	村民委员会	Jonɡnɑi Cūnmínwěiyuánhuì
+中乃村民委员会	村民委员会	Jongnɑi Cūnmínwěiyuánhuì
 龙塘洞	洞穴	Lóngtáng Dòng
 浩勒包昭	丘陵山地	Hôlbôô Jôô
 坪尔上	农村居民点	Píng'ěrshàng
 崩将湿	山峰	Bēngjiāngshī
 朱家户	农村居民点	Zhūjiāhù
 白庙湾上	农村居民点	Báimiàowānshàng
-巴音陶勒盖嘎查委员会	村民委员会	Bɑyɑntôlɡai Gɑqɑɑ Wěiyuánhuì
+巴音陶勒盖嘎查委员会	村民委员会	Bɑyɑntôlgai Gɑqɑɑ Wěiyuánhuì
 靖林岭	山	Jìnglín Lǐng
 荷田村王屋	农村居民点	Hétiáncūnwángwū
 程家墩	农村居民点	Chéngjiādūn
@@ -35921,7 +35921,7 @@ nai皮冲	农村居民点	Naipíchōng
 三里庙	农村居民点	Sānlǐmiào
 黄石坑	农村居民点	Huángshíkēng
 神岗圩	农村居民点	Shéngǎngxū
-查干苏莫嘎查委员会	村民委员会	Qɑɡɑɑnsom Gɑqɑɑ Wěiyuánhuì
+查干苏莫嘎查委员会	村民委员会	Qɑgɑɑnsom Gɑqɑɑ Wěiyuánhuì
 土龙山	山	Tǔlóng Shān
 西吴庄	农村居民点	Xīwúzhuāng
 硃笔尖	山峰	Zhūbǐ Jiān
@@ -35996,7 +35996,7 @@ nai皮冲	农村居民点	Naipíchōng
 范家户	农村居民点	Fànjiāhù
 河达源	农村居民点	Hédáyuán
 哈日昭	丘陵山地	Har Jôô
-沙如勒努图格嘎查委员会	村民委员会	Sɑrûûlnûtûɡ Gɑqɑɑ Wěiyuánhuì
+沙如勒努图格嘎查委员会	村民委员会	Sɑrûûlnûtûg Gɑqɑɑ Wěiyuánhuì
 岗孜村村民委员会	村民委员会	Gǎngzīcūn Cūnmínwěiyuánhuì
 哈希雅吐	丘陵山地	Haxat
 拉阁	农村居民点	Lāgé
@@ -38634,7 +38634,7 @@ nai皮冲	农村居民点	Naipíchōng
 霞源坊	农村居民点	Xiáyuánfāng
 徐庄村民委员会	村民委员会	Xúzhuāng Cūnmínwěiyuánhuì
 娘扎赛里	山	Niángzhāsàilǐ
-巴罕宝拉格	农村居民点	Bahan Bûlaɡ
+巴罕宝拉格	农村居民点	Bahan Bûlag
 北圪洞村民委员会	村民委员会	Běigēdòng Cūnmínwěiyuánhuì
 曹门底	农村居民点	Cáoméndǐ
 念新寨	农村居民点	Niànxīnzhài
@@ -46510,7 +46510,7 @@ nai皮冲	农村居民点	Naipíchōng
 莫合龙塘	山	Mòhé Lóngtáng
 厅堂楼村民委员会	村民委员会	Tīngtánglóucūnmín Wěiyuánhuì
 张文楼	农村居民点	Zhāngwénlóu
-沙尓利格锡力	山	Xɑrliɡ Xil
+沙尓利格锡力	山	Xɑrlig Xil
 拉合基	山谷、谷地	Lāhéjī
 和庄	农村居民点	Hézhuāng
 花园路社区居民委员会	社区居委会（居委会）	Huāyuánlùshèqū Jūmínwěiyuánhuì
@@ -64935,7 +64935,7 @@ nai皮冲	农村居民点	Naipíchōng
 轩皇庙	农村居民点	Xuānhuángmiào
 敖包图浑迪	山谷、谷地	Ôbôôt Hondei
 上毛坞新农村	农村居民点	Shàngmáowùxīnnóngcūn
-昌煌嘎查委员会	村民委员会	Qɑmhɑɡ Gɑqɑɑ Wěiyuánhuì
+昌煌嘎查委员会	村民委员会	Qɑmhɑg Gɑqɑɑ Wěiyuánhuì
 明山湾	农村居民点	Míngshānwān
 摧沼铁	农村居民点	Cuīzhǎotiě
 乃日音希热浩特	农村居民点	Nairin Xiree Hôt
@@ -64944,7 +64944,7 @@ nai皮冲	农村居民点	Naipíchōng
 芒洋	农村居民点	Mángyáng
 上房村民委员会	村民委员会	Shàngfáng Cūnmínwěiyuánhuì
 上童	农村居民点	Shàngtóng
-通史嘎查委员会	村民委员会	Tonɡshi Gɑqɑɑ Wěiyuánhuì
+通史嘎查委员会	村民委员会	Tongshi Gɑqɑɑ Wěiyuánhuì
 杨家湾里	农村居民点	Yángjiāwānlǐ
 咀头屋	农村居民点	Zuītóuwū
 西山嶂	山峰	Xīshān Zhàng
@@ -80619,7 +80619,7 @@ nai皮冲	农村居民点	Naipíchōng
 文庙	农村居民点	Wénmiào
 拉日白靠	山谷、谷地	Lārìbáikào
 毛仔岭	农村居民点	Máozǎilǐng
-巴嘎淖尔村民委员会	村民委员会	Bɑɡɑnûûr Cūnmínwěiyuánhuì
+巴嘎淖尔村民委员会	村民委员会	Bɑgɑnûûr Cūnmínwěiyuánhuì
 匈么垄	山峰	Xiōngmelǒng
 南刘口	农村居民点	Nánliúkǒu
 大门村	农村居民点	Dàméncūn
@@ -86219,7 +86219,7 @@ nai沙坳	山谷、谷地	Naishā Ào
 赤土下	农村居民点	Chìtǔxià
 花间村村民委员会	村民委员会	Huājiāncūn Cūnmínwěiyuánhuì
 鸟罗帮张	山体	Niǎoluóbāngzhāng
-查干敖包套布	农村居民点	Qɑɡɑɑn'ôbôôtôb
+查干敖包套布	农村居民点	Qɑgɑɑn'ôbôôtôb
 横塘村刘家	农村居民点	Héngtángcūnliújiā
 普咪娘宗	农村居民点	Pǔmīniángzōng
 羊圪岭	农村居民点	Yánggēlǐng
@@ -86249,7 +86249,7 @@ nai沙坳	山谷、谷地	Naishā Ào
 尕龙色加	山体	Gǎlóngsèjiā
 内史村村民委员会	村民委员会	Nèishǐcūn Cūnmínwěiyuánhuì
 望郭村樟树下村	农村居民点	Wàngguōcūnzhāngshùxiàcūn
-巴嘎排申达套布	农村居民点	Bɑɡpɑisɑndɑɑtôb
+巴嘎排申达套布	农村居民点	Bɑgpɑisɑndɑɑtôb
 小马间	农村居民点	Xiǎomǎjiān
 力富村	农村居民点	Lìfùcūn
 陇冒拉	山体	Lǒngmàolā
@@ -89118,7 +89118,7 @@ nai沙坳	山谷、谷地	Naishā Ào
 郭家岩	山	Guōjiā Yán
 塘坡	农村居民点	Tángpō
 常东村民委员会	村民委员会	Chángdōng Cūnmínwěiyuánhuì
-毛嘎海套布	农村居民点	Mûûɡhɑɑtôb
+毛嘎海套布	农村居民点	Mûûghɑɑtôb
 竹隔背	农村居民点	Zhúgébèi
 康保	农村居民点	Kāngbǎo
 郭庄坡	山	Guōzhuāng Pō
@@ -98926,7 +98926,7 @@ nai沙坳	山谷、谷地	Naishā Ào
 子真路	次干路	Zǐzhēn Lù
 大红岸	山	Dàhóng'àn
 小堡堡	山	Xiǎo Bǎobǎo
-扎木特扎拉格	山谷、谷地	Jɑmt Jɑlɑɡ
+扎木特扎拉格	山谷、谷地	Jɑmt Jɑlɑg
 云林社区居民委员会	社区居委会（居委会）	Yúnlín Shèqūjūmínwěiyuánhuì
 准古日班呼都嘎浩特	农村居民点	Juun Gûrban Hûdag Hôt
 庙下程家	农村居民点	Miàoxiàchéngjiā
@@ -98936,7 +98936,7 @@ nai沙坳	山谷、谷地	Naishā Ào
 奂坪村民委员会	村民委员会	Dpan 'phen Sde Dmangs U Yon Lhan Khang
 锦绣社区居民委员会	社区居委会（居委会）	Jǐnxiù Shèqūjūmínwěiyuánhuì
 木瓜园	农村居民点	Mùguāyuán
-哈尔道很扎拉格	山谷、谷地	Hɑrduhun Jɑlɑɡ
+哈尔道很扎拉格	山谷、谷地	Hɑrduhun Jɑlɑg
 喀朗赛	山体	Kālǎngsài
 三舍	农村居民点	Sānshě
 天旗庙梁	山	Tiānqímiào Liáng
@@ -98948,7 +98948,7 @@ nai沙坳	山谷、谷地	Naishā Ào
 吗热股	农村居民点	Márègǔ
 朵堡寨	农村居民点	Duǒbǎozhài
 庄窝	农村居民点	Zhuāngwō
-塔日巴干扎拉格	山谷、谷地	Tɑrbɑɑn Jɑlɑɡ
+塔日巴干扎拉格	山谷、谷地	Tɑrbɑɑn Jɑlɑg
 达岗希尕	山坡	Tagangsribkha
 廷贤社区居民委员会	社区居委会（居委会）	Tíngxián Shèqūjūmínwěiyuánhuì
 额木讷音图浩特	农村居民点	Emon Int Hôt
@@ -98957,7 +98957,7 @@ nai沙坳	山谷、谷地	Naishā Ào
 上南阜	农村居民点	Shàngnánfù
 老嵊上	农村居民点	Lǎoshèngshàng
 岩台岭山	山	Yántáilǐng Shān
-翁根花	山	Onɡen'hûûɑ
+翁根花	山	Ongen'hûûɑ
 山牛冲	农村居民点	Shānniúchōng
 院田	农村居民点	Yuàntián
 热萨	山坡	Rasa
@@ -107805,7 +107805,7 @@ nai沙坳	山谷、谷地	Naishā Ào
 龙门大道	主干路	Lóngmén Dàdào
 堤内村民委员会	村民委员会	Dīnèi Cūnmín Wěiyuánhuì
 麻石坑	农村居民点	Máshíkēng
-鲁根套布	农村居民点	Luɡiintôb
+鲁根套布	农村居民点	Lugiintôb
 哈夏特音高勒	河流	Haxaatiin Gôl
 蔓芹弯梁	山峰	Triltsekyog Gang
 龙乡西路	主干路	Lóngxiāng Xīlù
@@ -107919,7 +107919,7 @@ nai沙坳	山谷、谷地	Naishā Ào
 盘山东	农村居民点	Pánshāndōng
 荷云坪	农村居民点	Héyúnpíng
 围岗	农村居民点	Wéigǎng
-毛希改哈拉乌苏	农村居民点	Mûxɡɑihɑrûs
+毛希改哈拉乌苏	农村居民点	Mûxgɑihɑrûs
 渗塘下	农村居民点	Shèntángxià
 柳洲头	农村居民点	Liǔzhōutóu
 后窑堤	农村居民点	Hòuyáodī
@@ -107948,7 +107948,7 @@ nai沙坳	山谷、谷地	Naishā Ào
 李荣庄	农村居民点	Lǐróngzhuāng
 记子坑	农村居民点	Jìzǐkēng
 十字梁	山体	Shízì Liáng
-准潮海	农村居民点	Juunxûɡûi
+准潮海	农村居民点	Juunxûgûi
 杨和车	农村居民点	Yánghéchē
 东边秦家	农村居民点	Dōngbiānqínjiā
 一上一下	农村居民点	Yīshàngyīxià
@@ -114526,7 +114526,7 @@ nai岔塘	农村居民点	Naichàtáng
 古炉背	农村居民点	Gǔlúbèi
 巴窄坪	农村居民点	Bāzhǎipíng
 官坊李家	农村居民点	Guānfānglǐjiā
-乌额根图	农村居民点	Unɡent
+乌额根图	农村居民点	Ungent
 小米地村民委员会	村民委员会	Xiǎomǐdì Cūnmínwěiyuánhuì
 刘川庄	农村居民点	Liúchuānzhuāng
 戴家堡	农村居民点	Dàijiābǎo
@@ -118516,7 +118516,7 @@ nai岔塘	农村居民点	Naichàtáng
 中巷村	农村居民点	Zhōngxiàngcūn
 新建村寨背	农村居民点	Xīnjiàncūnzhàibèi
 远家坑	农村居民点	Yuǎnjiākēng
-堵嘎尔湾村民委员会	村民委员会	Dûûɡɑr Wān Cūnmínwěiyuánhuì
+堵嘎尔湾村民委员会	村民委员会	Dûûgɑr Wān Cūnmínwěiyuánhuì
 杨家大塆	农村居民点	Yángjiādàwān
 长山垄村民委员会	村民委员会	Chángshānlǒng Cūnmínwěiyuánhuì
 巴嘎呼热	农村居民点	Bāghure
@@ -118549,7 +118549,7 @@ nai岔塘	农村居民点	Naichàtáng
 蔡训	农村居民点	Càixùn
 得和次	山坡	Tensa
 宝丰路	支路	Bǎofēng Lù
-宝日陶勒盖村民委员会	村民委员会	Bôrtôlɡai Cūnmínwěiyuánhuì
+宝日陶勒盖村民委员会	村民委员会	Bôrtôlgai Cūnmínwěiyuánhuì
 龟山岭	农村居民点	Guīshānlǐng
 荷田村上屋	农村居民点	Hétiáncūnshàngwū
 觉拉巴阿	山体	Juélābā'ā
@@ -124646,7 +124646,7 @@ nai岔塘	农村居民点	Naichàtáng
 槲叶扒	农村居民点	Húyèpá
 罗凹	农村居民点	Luówā
 吴老庄	农村居民点	Wúlǎozhuāng
-沙尔利格社区居委会	社区居委会（居委会）	Xɑrliɡ Shèqū Jūwěihuì
+沙尔利格社区居委会	社区居委会（居委会）	Xɑrlig Shèqū Jūwěihuì
 沙木赖柴达木农业社	农村居民点	Xabnan Qaidam Nóngyèshè
 扎木杨柴达木农业社	农村居民点	Jamyang Qaidam Nóngyèshè
 敖包湾农业社	农村居民点	Ôbôô Wānnóngyèshè
@@ -129321,7 +129321,7 @@ nai岔塘	农村居民点	Naichàtáng
 韦夹道	农村居民点	Wéijiádào
 宝力根毛都	农村居民点	Bûlagin MôD
 陇贝	农村居民点	Lǒngbèi
-哈日干沟	农村居民点	Hɑrɡiliin'gûû
+哈日干沟	农村居民点	Hɑrgiliin'gûû
 健康东路	次干路	Jiànkāng Dōnglù
 黑么	农村居民点	Hēime
 哨怒	农村居民点	Shàonù
@@ -135269,7 +135269,7 @@ nai岔塘	农村居民点	Naichàtáng
 姜家营村民委员会	村民委员会	Jiāngjiāyíng Cūnmínwěiyuánhuì
 龚家村民委员会	村民委员会	Gōngjiā Cūnmínwěiyuánhuì
 轮塘	农村居民点	Lúntáng
-甘旗卡	农村居民点	Gɑnjɑɡ
+甘旗卡	农村居民点	Gɑnjɑg
 纳什藏谢托	草原	Nàshízàngxiètuō
 乌鸦坑	农村居民点	Wūyākēng
 莫哎兰木龙	河流	Mòāilánmùlóng
@@ -135287,7 +135287,7 @@ nai岔塘	农村居民点	Naichàtáng
 伏南	农村居民点	Fúnán
 柴山头	农村居民点	Cháishāntóu
 多奔尕折	草原	Duōbēngǎzhé
-北甘旗	农村居民点	Hôitgɑnjɑɡ
+北甘旗	农村居民点	Hôitgɑnjɑg
 索力吉尔拉栋	河流	Suǒlìjíěrlādòng
 蕉坊	农村居民点	Jiāofāng
 东甲兰营村民委员会	村民委员会	Zuun Jalan Ail Cūnmínwěiyuánhuì
@@ -135303,7 +135303,7 @@ nai岔塘	农村居民点	Naichàtáng
 福庆里	支路	Fúqìng Lǐ
 龙洼尕者	河流	Lóngwāgǎzhě
 托布辛怀图萨拉	山谷、谷地	Tuōbùxīnhuáitúsàlā
-哈日阿拉嘎	农村居民点	Hɑr'alɑɡ
+哈日阿拉嘎	农村居民点	Hɑr'alɑg
 日阿日大果	草原	Rì’ārìdàguǒ
 安城社区居民委员会	社区居委会（居委会）	Ānchéng Shèqūjūmínwěiyuánhuì
 赖地村民委员会	村民委员会	Làidì Cūnmínwěiyuánhuì
@@ -135326,7 +135326,7 @@ nai岔塘	农村居民点	Naichàtáng
 剑溪村民委员会	村民委员会	Jiànxī Cūnmínwěiyuánhuì
 湘鄂	农村居民点	Xiāng'è
 孔雀落沟	河流	Kǒngquèluò Gōu
-哈拉盖甸子	农村居民点	Hɑlɑɡɑɑttɑl
+哈拉盖甸子	农村居民点	Hɑlɑgɑɑttɑl
 龙子源	农村居民点	Lóngzǐyuán
 巴彦塘	草原	Bāyàntáng
 查日斯营子	农村居民点	Qɑrsɑn'ail
@@ -135452,7 +135452,7 @@ nai岔塘	农村居民点	Naichàtáng
 禾场头	农村居民点	Héchǎngtóu
 四石八里	农村居民点	Sìshíbālǐ
 西纽曲果	泉	Xīniǔqǔguǒ
-辉图阿拉嘎乌合尔	农村居民点	Hôit'alɑɡuher
+辉图阿拉嘎乌合尔	农村居民点	Hôit'alɑguher
 新刘家坑	农村居民点	Xīnliújiākēng
 卢三村	农村居民点	Lúsāncūn
 谢曲贡玛	泉	Xièqǔgòngmǎ
@@ -135493,7 +135493,7 @@ nai岔塘	农村居民点	Naichàtáng
 大光山一井社区居民委员会	社区居委会（居委会）	Dàguāngshān 1 Jǐng Shèqūjūmínwěiyuánhuì
 托华滩	农村居民点	Tuōhuátān
 浪木吉合青果	泉	Làngmùjíhéqīngguǒ
-良沙布日	农村居民点	Nɑnɡxɑbɑr
+良沙布日	农村居民点	Nɑngxɑbɑr
 托勒布勒格	农村居民点	Tuōlèbùlègé
 黄泥陂	农村居民点	Huángnípō
 西坑韩家	农村居民点	Xīkēnghánjiā
@@ -144872,7 +144872,7 @@ nai岔塘	农村居民点	Naichàtáng
 牛角寨三村	农村居民点	Niújiǎozhài 3 Cūn
 新屋新村	农村居民点	Xīnwūxīncūn
 哈子沟塘	草原	Hāzǐgōu Táng
-乌额根图嘎查委员会	村民委员会	Unɡent Gaqaa Wěiyuánhuì
+乌额根图嘎查委员会	村民委员会	Ungent Gaqaa Wěiyuánhuì
 银湖佳苑	农村居民点	Yínhújiāyuàn
 来唐营村民委员会	村民委员会	Láitángyíng Cūnmínwěiyuánhuì
 查干布日嘎斯台高勒	河流	Qagan Bûrgaastai Gôl
@@ -147893,7 +147893,7 @@ nai岔塘	农村居民点	Naichàtáng
 尕勒拉才	山体	Gǎlèlācái
 索莫赛	山	Suǒmòsài
 覃家湾	农村居民点	Tánjiāwān
-乌兰图嘎新村	农村居民点	Ûlaan Tûɡ Xīncūn
+乌兰图嘎新村	农村居民点	Ûlaan Tûg Xīncūn
 满格尤玛	山谷、谷地	Mǎngéyóumǎ
 岩顶	山峰	Yán Dǐng
 皑嘎博	山坡	Áigābó
@@ -147912,7 +147912,7 @@ nai岔塘	农村居民点	Naichàtáng
 西段庄	农村居民点	Xīduànzhuāng
 芦沅坑	农村居民点	Lúyuánkēng
 沟田	农村居民点	Gōutián
-乌兰图嘎	农村居民点	Ûlaan Tûɡ
+乌兰图嘎	农村居民点	Ûlaan Tûg
 许寨村民委员会	村民委员会	Xǔzhài Cūnmínwěiyuánhuì
 窑孔湾	农村居民点	Yáokǒngwān
 小忙赛	农村居民点	Xiǎomángsài
@@ -147966,7 +147966,7 @@ nai岔塘	农村居民点	Naichàtáng
 纳尔当	山谷、谷地	Nà'ěrdāng
 地嘎改	山谷、谷地	Dìgāgǎi
 隆董萨尤玛	农村居民点	Lóngdǒngsàyóumǎ
-德日苏宝龙一组	农村居民点	Derest Bûlanɡ Yīzǔ
+德日苏宝龙一组	农村居民点	Derest Bûlang Yīzǔ
 荷木村民委员会	村民委员会	Hémùcūnmínwěiyuánhuì
 大江坑尾	农村居民点	Dàjiāngkēngwěi
 桥店子	农村居民点	Qiáodiànzǐ
@@ -159163,7 +159163,7 @@ nai岔塘	农村居民点	Naichàtáng
 汪背村廖屋	农村居民点	Wāngbèicūnliàowū
 同宝栋兰木	河流	Tóngbǎodònglánmù
 谢田	农村居民点	Xiètián
-老甘旗卡	农村居民点	Lǎogɑnjɑɡ
+老甘旗卡	农村居民点	Lǎogɑnjɑg
 痴朗栋	山	Chīlǎngdòng
 奇布	农村居民点	Qíbù
 哈拉乌苏夯果	河流	Hālāwūsūhāngguǒ
@@ -160695,7 +160695,7 @@ nai岔塘	农村居民点	Naichàtáng
 桂形坑	农村居民点	Guìxíngkēng
 后石砬子	山峰	Hòushílázǐ
 达史隆巴	山谷、谷地	Dáshǐlóngbā
-黄沙吐	农村居民点	Hônɡɡôrqôɡt
+黄沙吐	农村居民点	Hônggôrqôgt
 纳儿登	山谷、谷地	Nà'érdēng
 下罗摩	农村居民点	Xiàluómó
 要乔合	山谷、谷地	Yokhyog
@@ -165805,7 +165805,7 @@ nai岔塘	农村居民点	Naichàtáng
 达嘎宁	农村居民点	Dágāníng
 徐埠街	主干路	Xúbù Jiē
 茹固	农村居民点	Rúgù
-图拉古日乌拉	山	Tulɡûûr Ûûl
+图拉古日乌拉	山	Tulgûûr Ûûl
 吓破尕	农村居民点	Xiàpògǎ
 郭振乾养殖场	农、林、牧场点	Guōzhènqián Yǎngzhíchǎng
 折色达	农村居民点	Zhésèdá
@@ -165825,7 +165825,7 @@ nai岔塘	农村居民点	Naichàtáng
 多介滩	农村居民点	Duōjiètān
 街上巷	支路	Jiēshàng Xiàng
 雪扒腊卡	山	Xuěbā Làkǎ
-塔克塔乌拉	山	Taɡtaa Ûûl
+塔克塔乌拉	山	Tagtaa Ûûl
 常沙里	农村居民点	Chángshālǐ
 热纳滩	农村居民点	Rènàtān
 押卡土入	山	Yākǎ Tǔrù
@@ -165851,12 +165851,12 @@ nai岔塘	农村居民点	Naichàtáng
 学堡	山	Xuébǎo
 松古佬	山	Sōnggǔlǎo
 瓦格杂	农村居民点	Wǎgézá
-海日格勒图乌拉	山	Harhɡilt Ûûl
+海日格勒图乌拉	山	Harhgilt Ûûl
 信丰县	县级行政区	Xìnfēng Xiàn
 横屋下	农村居民点	Héngwūxià
 赛托改	农村居民点	Sàituōgǎi
 井水	农村居民点	Jǐngshuǐ
-敦德陶勒盖乌拉	山	Dûnd tôlɡôi Ûûl
+敦德陶勒盖乌拉	山	Dûnd tôlgôi Ûûl
 吒玛郭	农村居民点	Zhàmǎguō
 坡若卡	农村居民点	Pōruòkǎ
 下黄土坑	农村居民点	Xiàhuángtǔkēng
@@ -165868,7 +165868,7 @@ nai岔塘	农村居民点	Naichàtáng
 日峰商业步行街	支路	Rìfēng Shāngyèbùxíngjiē
 老甲卡	农村居民点	Lǎojiǎkǎ
 罕浒村民委员会	村民委员会	Hǎnhǔ Cūnmínwěiyuánhuì
-诺其根花	山	Nuqɡen Hûa
+诺其根花	山	Nuqgen Hûa
 万米大道	次干路	Wànmǐ Dàdào
 新当迪	山	Xīndāngdí
 学堂屋	农村居民点	Xuétángwū
@@ -182751,7 +182751,7 @@ nai岔塘	农村居民点	Naichàtáng
 罗许	农村居民点	Luóxǔ
 七家湾	农村居民点	Qījiāwān
 蔡石	农村居民点	Càishí
-德日苏宝龙	农村居民点	Derest Bûlanɡ
+德日苏宝龙	农村居民点	Derest Bûlang
 美山村民委员会	村民委员会	Měishān Cūnmínwěiyuánhuì
 舒日乌拉	山	Xur Ûûl
 胡龙河	河流	Húlóng Hé
@@ -182760,7 +182760,7 @@ nai岔塘	农村居民点	Naichàtáng
 莲前村民委员会	村民委员会	Liánqián Cūnmínwěiyuánhuì
 老君垭	农村居民点	Lǎojūnyā
 东来村民委员会	村民委员会	Dōnglái Cūnmínwěiyuánhuì
-黑德宝龙	农村居民点	Heidein Bûlanɡ
+黑德宝龙	农村居民点	Heidein Bûlang
 勐永坝子	盆地	Měngyǒng Bàzǐ
 纳贡	山谷、谷地	Nàgòng
 哈勒查盖道布	山	Halqgai Dôb
@@ -182784,7 +182784,7 @@ nai岔塘	农村居民点	Naichàtáng
 转机村村民委员会	村民委员会	Zhuǎnjīcūn Cūnmínwěiyuánhuì
 马甲	农村居民点	Mǎjiǎ
 乌苏屋婑郭勒	河流	Wūsūwūwǒguōlè
-乌讷根图乌拉	山	Unɡent Ûûl
+乌讷根图乌拉	山	Ungent Ûûl
 先生湾	农村居民点	Xiānshēngwān
 火峰村	村民委员会	Huǒfēngcūn
 塔利村奶牛小区	农村居民点	Tawan Tôlgôi Cūn NǎiniúXiǎoqū
@@ -187403,7 +187403,7 @@ nai岔塘	农村居民点	Naichàtáng
 达罕	农村居民点	Darhan
 马保凼	农村居民点	Mǎbǎodàng
 乌兰海	农村居民点	Ûlaanhai
-吐古日格	农村居民点	Toɡroɡ
+吐古日格	农村居民点	Togrog
 奈日木德勒	农村居民点	Nairamdal
 黑耳窝	农村居民点	Hēiěrwō
 东茅冲	农村居民点	Dōngmáochōng
@@ -187468,7 +187468,7 @@ nai岔塘	农村居民点	Naichàtáng
 直竹山	农村居民点	Zhízhúshān
 吾海村村民委员会	村民委员会	Wúhǎi Cūn Cūnmínwěiyuánhuì
 道山	农村居民点	Dàoshān
-汉代	农村居民点	Hɑndɑɡɑi
+汉代	农村居民点	Hɑndɑgɑi
 气古	农村居民点	Qìgǔ
 直美村村民委员会	村民委员会	Zhíměi Cūn Cūnmínwěiyuánhuì
 海如坪	农村居民点	Hǎirúpíng
@@ -187479,7 +187479,7 @@ nai岔塘	农村居民点	Naichàtáng
 圆明寺	农村居民点	Yuánmíngsì
 巴彦乌达嘎查委员会	村民委员会	Bayan'ûd Gɑqɑɑ Wěiyuánhuì
 格鲁	农村居民点	Gélǔ
-甘旗卡村民委员会	村民委员会	Gɑnjɑɡ Cūnmínwěiyuánhuì
+甘旗卡村民委员会	村民委员会	Gɑnjɑg Cūnmínwěiyuánhuì
 西石庙	农村居民点	Xīshímiào
 铁梨寨	农村居民点	Tiělízhài
 树戛箐	农村居民点	Shùgāqìng
@@ -187512,7 +187512,7 @@ nai岔塘	农村居民点	Naichàtáng
 卡依	山谷、谷地	Kǎyī
 流田村民委员会	村民委员会	Liútián Cūnmínwěiyuánhuì
 黄巅咀	农村居民点	Huángdiānzuǐ
-北甘旗村民委员会	村民委员会	Hôit Gɑnjɑɡ Cūnmínwěiyuánhuì
+北甘旗村民委员会	村民委员会	Hôit Gɑnjɑg Cūnmínwěiyuánhuì
 柑树下	农村居民点	Gānshùxià
 扎哈村村民委员会	村民委员会	Zhāhā Cūn Cūnmínwěiyuánhuì
 富长	农村居民点	Fùcháng
@@ -187531,12 +187531,12 @@ nai岔塘	农村居民点	Naichàtáng
 带咀	农村居民点	Dàizuǐ
 达同隆巴	山谷、谷地	Dátónglóngbā
 岩高头	农村居民点	Yángāotóu
-乌日都扎木呼都嘎	农村居民点	Ûrdjɑmiinhûdɑɡ
+乌日都扎木呼都嘎	农村居民点	Ûrdjɑmiinhûdɑg
 拉玛	山谷、谷地	Lāmǎ
 柏果树	农村居民点	Bóguǒshù
 鱼尾咀	农村居民点	Yúwěizuǐ
 杨屯	农村居民点	Yángtún
-辉图扎木呼都嘎	农村居民点	Hôitjɑmiinhûdɑɡ
+辉图扎木呼都嘎	农村居民点	Hôitjɑmiinhûdɑg
 载格埃	山谷、谷地	Zǎigé'āi
 沙塘排	农村居民点	Shātángpái
 三角池	农村居民点	Sānjiǎochí
@@ -191219,7 +191219,7 @@ nai岔塘	农村居民点	Naichàtáng
 兵隆拉喀	山口、关隘	Bīnglónglākā
 蛇埂子	农村居民点	Shégěngzǐ
 得出隆洼	山谷、谷地	Déchūlóngwā
-乌兰茫汉营子	农村居民点	Ûlɑɑnmɑnɡhɑnyíngzǐ
+乌兰茫汉营子	农村居民点	Ûlɑɑnmɑnghɑnyíngzǐ
 阿务里	农村居民点	Āwùlǐ
 蚂蚁坟堡堡	山	Mǎyǐfén Bǎobǎo
 火溪	农村居民点	Huǒxī
@@ -199270,7 +199270,7 @@ nai庙脚	农村居民点	Naimiàojiǎo
 塔瓜玛达能	山谷、谷地	Tǎguāmǎdánéng
 兔场	农村居民点	Tùchǎng
 下石勒	农村居民点	Xiàshílè
-巴罕宝拉格村村民委员会	村民委员会	Bahan Bûlaɡ Cūn Cūnmín Wěiyuánhuì
+巴罕宝拉格村村民委员会	村民委员会	Bahan Bûlag Cūn Cūnmín Wěiyuánhuì
 金岗坪	农村居民点	Jīngǎngpíng
 下萨拉	山谷、谷地	Xiàsàlā
 中嘎墙	河流	Zhōnggāqiáng
@@ -201267,7 +201267,7 @@ nai炉坡	农村居民点	Nailúpō
 老母猪寨	山峰	Lǎomǔzhūzhài
 生姜高山顶	农村居民点	Shēngjiānggāoshāndǐng
 双龙堡村村民委员会	村民委员会	Shuānglóngbǎocūn Cūnmínwěiyuánhuì
-阿贵嘎查委员会	村民委员会	Aɡûi Gaqaa Wěiyuánhuì
+阿贵嘎查委员会	村民委员会	Agûi Gaqaa Wěiyuánhuì
 乌牛吐南沟	山谷、谷地	Wūniútǔ Nán Gōu
 等相岛	洲、河岛	Děngxiàng Dǎo
 黑石岈	农村居民点	Hēishíyá
@@ -201363,7 +201363,7 @@ nai炉坡	农村居民点	Nailúpō
 长翁村村民委员会	村民委员会	Zhǎngwēngcūn Cūnmínwěiyuánhuì
 查叶玛	山峰	Cháyèmǎ
 八块地	农村居民点	Bākuàidì
-高井嘎查委员会	村民委员会	Gôjônɡ Gaqaa Wěiyuánhuì
+高井嘎查委员会	村民委员会	Gôjông Gaqaa Wěiyuánhuì
 乌加木	农、林、牧场点	Uujim
 梅坊	农村居民点	Méifāng
 博尔气敖勒	山峰	Bó'ěrqì Ûûl
@@ -201428,7 +201428,7 @@ nai炉坡	农村居民点	Nailúpō
 工四街	支路	Gōng 4 Jiē
 普让克合	山谷、谷地	Phuringkhog
 老伞	农村居民点	Lǎosǎn
-哈日根呼都嘎	农村居民点	Hɑrgɑnhûdɑɡ
+哈日根呼都嘎	农村居民点	Hɑrgɑnhûdɑg
 陶坡	农村居民点	Táopō
 查黑勒达格萨拉	农、林、牧场点	Qahildag Salaa
 古力古图嘎查委员会	村民委员会	Gûrgûûlt Gaqaa Wěiyuánhuì
@@ -201466,7 +201466,7 @@ nai炉坡	农村居民点	Nailúpō
 水牛畔	农村居民点	Shuǐniúpàn
 西博嘎查	农村居民点	Xibo Gaqaa
 庄培坞	农村居民点	Zhuāngpéiwù
-黄沙吐嘎查委员会	村民委员会	Hônɡɡôrqôɡt Gɑqɑɑ Wěiyuánhuì
+黄沙吐嘎查委员会	村民委员会	Hônggôrqôgt Gɑqɑɑ Wěiyuánhuì
 毛家大院子	农村居民点	Máojiādàyuànzǐ
 犀牛街	支路	Xīniú Jiē
 株良村民委员会	村民委员会	Zhūliáng Cūnmínwěiyuánhuì
@@ -214666,7 +214666,7 @@ E4E5蜡庙	农村居民点	E4e5làmiào
 田头沟	农村居民点	Tiántóugōu
 尕包塞	山	Gǎbāosài
 月山嘴	农村居民点	Yuèshānzuǐ
-额斯格	农村居民点	Esɡee
+额斯格	农村居民点	Esgee
 巴彦道乐希	山	Bayan Dôlx
 黑尔音呼都格	农、林、牧场点	Hiriin Hudag
 沙坪畈张村	农村居民点	Shāpíngfànzhāngcūn
@@ -243015,7 +243015,7 @@ D区大道	主干路	Dqū Dàdào
 汉堂	农村居民点	Hàntáng
 王狗啥	农村居民点	Wánggǒushá
 尕莫登奏	山体	Gǎmòdēngzòu
-乌日都章棍塔拉	农村居民点	Ûrdjɑnɡɡûûntɑl
+乌日都章棍塔拉	农村居民点	Ûrdjɑnggûûntɑl
 禾稿丘	农村居民点	Hégǎoqiū
 焦家凹村民委员会	村民委员会	Jiāojiāwā Cūnmínwěiyuánhuì
 燥溪	河流	Zàoxī
@@ -243035,7 +243035,7 @@ D区大道	主干路	Dqū Dàdào
 乾上村民委员会	村民委员会	Qiánshàng Cūnmínwěiyuánhuì
 大田沟村村民委员会	村民委员会	Dàtiángōucūn Cūnmínwěiyuánhuì
 黄龙坑村民委员会	村民委员会	Huánglóngkēng Cūnmínwěiyuánhuì
-巴嘎要鲁	农村居民点	Bɑɡyôl
+巴嘎要鲁	农村居民点	Bɑgyôl
 高椅坡	农村居民点	Gāoyǐpō
 鑫源大道	支路	Xīnyuán Dàdào
 斗米塘詹家	农村居民点	Dòumǐtángzhānjiā
@@ -243081,7 +243081,7 @@ D区大道	主干路	Dqū Dàdào
 曼出玛	山体	Mànchūmǎ
 乔林河	河流	Qiáolín Hé
 新渐下	农村居民点	Xīnjiànxià
-辉图章棍塔拉	农村居民点	Hôitjɑnɡɡûûntɑl
+辉图章棍塔拉	农村居民点	Hôitjɑnggûûntɑl
 石背楼	农村居民点	Shíbèilóu
 老亘中	农村居民点	Lǎogènzhōng
 桑青赛	山体	Sāngqīngsài
@@ -243106,7 +243106,7 @@ D区大道	主干路	Dqū Dàdào
 桃里何家	农村居民点	Táolǐhéjiā
 吴城佬	农村居民点	Wúchénglǎo
 上井村民委员会	村民委员会	Shàngjǐng Cūnmínwěiyuánhuì
-明嘎塔哈日乌苏	农村居民点	Mɑnɡthɑrûs
+明嘎塔哈日乌苏	农村居民点	Mɑngthɑrûs
 牛古大丘	农村居民点	Niúgǔdàqiū
 茅房湾张家	农村居民点	Máofángwānzhāngjiā
 戛梁寨	农村居民点	Jiáliángzhài
@@ -243133,7 +243133,7 @@ D区大道	主干路	Dqū Dàdào
 风炉墩	山	Fēnglúdūn
 兔窝	农村居民点	Tùwō
 鲇屋	农村居民点	Niánwū
-乌日都阿克台	农村居民点	Ûrd'aɡtɑtɑi
+乌日都阿克台	农村居民点	Ûrd'agtɑtɑi
 下梭	农村居民点	Xiàsuō
 坽北村	农村居民点	Língběicūn
 田下路	主干路	Tiánxià Lù
@@ -243159,7 +243159,7 @@ D区大道	主干路	Dqū Dàdào
 梨子树湾	农村居民点	Lízǐshùwān
 北江	农村居民点	Běijiāng
 芸田	农村居民点	Yúntián
-毛希盖乌苏	农村居民点	Mûxɡûiûs
+毛希盖乌苏	农村居民点	Mûxgûiûs
 染房湾村村民委员会	村民委员会	Rǎnfángwāncūn Cūnmínwěiyuánhuì
 筛黑走等博	农村居民点	Shāihēizǒuděngbó
 江工路	主干路	Jiānggōng Lù
@@ -243167,7 +243167,7 @@ D区大道	主干路	Dqū Dàdào
 九圪塔	农村居民点	Jiǔgēda
 老燕窝	农村居民点	Lǎoyànwō
 千江咀	农村居民点	Qiānjiāngjǔ
-巴润阿克台	农村居民点	Bɑrûûn'aɡtɑtɑi
+巴润阿克台	农村居民点	Bɑrûûn'agtɑtɑi
 高州安	农村居民点	Gāozhōu'ān
 抵卡新寨	农村居民点	Dǐkǎxīnzhài
 九龙垭	山口、关隘	Jiǔlóng Yà
@@ -243220,7 +243220,7 @@ D区大道	主干路	Dqū Dàdào
 高家厅房	农村居民点	Gāojiātīngfáng
 下中堡	农村居民点	Xiàzhōngbǎo
 哈女的科	山	Hānǚdekē
-辉图阿克台	农村居民点	Hôit'aɡtɑtɑi
+辉图阿克台	农村居民点	Hôit'agtɑtɑi
 大炮磅	山	Dàpàobàng
 法安村民委员会	村民委员会	Fǎ'ān Cūnmínwěiyuánhuì
 七里滩村民委员会	村民委员会	Qīlǐtān Cūnmínwěiyuánhuì
@@ -246097,7 +246097,7 @@ D区大道	主干路	Dqū Dàdào
 上老哇	农村居民点	Shànglǎowā
 握玛直尕日	山谷、谷地	Wòmǎzhígǎrì
 清溪沟村村民委员会	村民委员会	Qīngxīgōu Cūn Cūnmínwěiyuánhuì
-德日苏宝龙嘎查委员会	村民委员会	Derest Bûlanɡ Gaqaa Wěiyuánhuì
+德日苏宝龙嘎查委员会	村民委员会	Derest Bûlang Gaqaa Wěiyuánhuì
 昆湾	农村居民点	Kūnwān
 赤鞍寨	山峰	Chì'ān Zhài
 赛念路	次干路	Sàiniàn Lù
@@ -247801,7 +247801,7 @@ D区大道	主干路	Dqū Dàdào
 黄沙源黄家	农村居民点	Huángshāyuánhuángjiā
 山峡湾	河湾	Shānxiá Wān
 孟津路	次干路	Mèngjīn Lù
-翁恩套布	农村居民点	Ônɡôntôb
+翁恩套布	农村居民点	Ôngôntôb
 戴家岭新村	农村居民点	Dàijiālǐngxīncūn
 翠尾桥	农村居民点	Cuìwěiqiáo
 险坑	农村居民点	Xiǎnkēng
@@ -256274,7 +256274,7 @@ D区大道	主干路	Dqū Dàdào
 窑家山	农村居民点	Yáojiāshān
 上龙子	农村居民点	Shànglóngzǐ
 吉日功	山	Jírìgōng
-汗呼都嘎嘎查委员会	村民委员会	Hɑɑn'hûdɑɡ Gɑqɑɑ Wěiyuánhuì
+汗呼都嘎嘎查委员会	村民委员会	Hɑɑn'hûdɑg Gɑqɑɑ Wěiyuánhuì
 鸡公窝	农村居民点	Jīgōngwō
 苏家湾小组	农村居民点	Sūjiāwānxiǎozǔ
 深山窝	农村居民点	Shēnshānwō
@@ -261752,7 +261752,7 @@ D区大道	主干路	Dqū Dàdào
 卧门恰例	山谷、谷地	Wòménqiàlì
 直合隆玛拉	山谷、谷地	Zhíhélóngmǎlā
 郑家际村民委员会	村民委员会	Zhèngjiājì Cūnmínwěiyuánhuì
-召根苏莫嘎查委员会	村民委员会	Jûûɡiin Sum Gɑqɑɑ Wěiyuánhuì
+召根苏莫嘎查委员会	村民委员会	Jûûgiin Sum Gɑqɑɑ Wěiyuánhuì
 布尔嘎斯特高勒	河流	Bûrgast Gôôl
 准呼布尔浩特	农村居民点	Juun Hoobor Hôt
 杂玛朵	山	Zámǎduǒ
@@ -261798,7 +261798,7 @@ D区大道	主干路	Dqū Dàdào
 上忙兔	农村居民点	Shàngmángtù
 敖伦敖包图乌拉	山峰	Ôlan Ôbôôt Ûûl
 泓川张家	农村居民点	Hóngchuānzhāngjiā
-忙汉门德来	农村居民点	Mnɡhanmendlei
+忙汉门德来	农村居民点	Mnghanmendlei
 铜钹山	山	Tóngbó Shān
 杨凤	农村居民点	Yángfèng
 哲合恰贡玛	山谷、谷地	Zhéhéqiàgòngmǎ
@@ -261992,7 +261992,7 @@ D区大道	主干路	Dqū Dàdào
 曾营村民委员会	村民委员会	Céngyíng Cūnmínwěiyuánhuì
 嶂下村民委员会	村民委员会	Zhàngxià Cūnmínwěiyuánhuì
 勐竜村	农村居民点	Měngnéngcūn
-翁根毛都	农村居民点	Ȏnɡɡôn Môd
+翁根毛都	农村居民点	Ȏnggôn Môd
 乌苏拐	山谷、谷地	Wūsūguǎi
 畈上詹家	农村居民点	Fànshàngzhānjiā
 三江前万	农村居民点	Sānjiāngqiánwàn
@@ -262013,7 +262013,7 @@ D区大道	主干路	Dqū Dàdào
 赛池冬龙	山谷、谷地	Sàichí Dōnglóng
 上交夯	农村居民点	Shàngjiāobèn
 天左鹰山	山峰	Tiānzuǒyīng Shān
-浩亚日呼都格	农村居民点	Hôyôar Hûdaɡ
+浩亚日呼都格	农村居民点	Hôyôar Hûdag
 上回龙	农村居民点	Shànghuílóng
 超格图浑迪	山谷、谷地	Qôgt Hondei
 麻仂坞	农村居民点	Málèwù
@@ -267661,7 +267661,7 @@ D区大道	主干路	Dqū Dàdào
 马次梁村	农村居民点	Mǎcìliángcūn
 拉玛达	农村居民点	Lāmǎdá
 逍遥岗	农村居民点	Xiāoyáogǎng
-班布日其格	农村居民点	Bɑmbɑrqɑɡ
+班布日其格	农村居民点	Bɑmbɑrqɑg
 蓼山	山峰	Liǎo Shān
 好力保村民委员会	村民委员会	Hôlbôô Cūnmínwěiyuánhuì
 四喜	山坡	Sìxǐ
@@ -267669,16 +267669,16 @@ D区大道	主干路	Dqū Dàdào
 鸿都观	农村居民点	Hóngdōuguàn
 白音高勒	农村居民点	Bayangôl
 学了背	农村居民点	Xuéliǎobèi
-敖包斯布奎	农村居民点	Ôbôônsûbɑɡ
+敖包斯布奎	农村居民点	Ôbôônsûbɑg
 前张湾村民委员会	村民委员会	Qiánzhāngwān Cūnmínwěiyuánhuì
-敖林斯布奎	农村居民点	Ôrôinsûbɑɡ
+敖林斯布奎	农村居民点	Ôrôinsûbɑg
 岗章	山	Gǎngzhāng
-套日根斯布奎	农村居民点	Tôrgônsûbɑɡ
+套日根斯布奎	农村居民点	Tôrgônsûbɑg
 潘山沟村民委员会	村民委员会	Pānshāngōu Cūnmínwěiyuánhuì
 小春	农村居民点	Xiǎochūn
 香日德镇	乡级行政区	Xiāngrìdé Zhèn
 柯靠	山	Kēkào
-乌丹斯布奎	农村居民点	Ûdɑnsûbɑɡ
+乌丹斯布奎	农村居民点	Ûdɑnsûbɑg
 张家蓬	农村居民点	Zhāngjiāpéng
 禹王庙	农村居民点	Yǔwángmiào
 东土城村	农村居民点	Dōngtǔchéngcūn
@@ -267709,7 +267709,7 @@ D区大道	主干路	Dqū Dàdào
 龙申上	农村居民点	Lóngshēnshàng
 巴根套布	农村居民点	Bɑɑiintôb
 拉隆唐	农村居民点	Lālóngtáng
-塔林斯布奎	农村居民点	Tɑliinsûbɑɡ
+塔林斯布奎	农村居民点	Tɑliinsûbɑg
 察汗乌苏镇	乡级行政区	Cháhànwūsū Zhèn
 干港洲	农村居民点	Gàngǎngzhōu
 少拜寺村民委员会	村民委员会	Shǎobàisì Cūnmínwěiyuánhuì
@@ -267721,7 +267721,7 @@ D区大道	主干路	Dqū Dàdào
 神池窑村民委员会	村民委员会	Shénchíyáo Cūnmínwěiyuánhuì
 尕录	河流	Gǎlù
 巴润古力古台	农村居民点	Bɑrûûngûrgûûltɑi
-阿克台嘎查委员会	村民委员会	Aɡtɑtɑi Gɑqɑɑ Wěiyuánhuì
+阿克台嘎查委员会	村民委员会	Agtɑtɑi Gɑqɑɑ Wěiyuánhuì
 乌兰西沟	草原	Wūlán XīGōu
 格如科	农村居民点	Gérúkē
 湾头王家	农村居民点	Wāntóuwángjiā
@@ -267729,7 +267729,7 @@ D区大道	主干路	Dqū Dàdào
 哈日乌苏嘎查委员会	村民委员会	Hɑrûs Gɑqɑɑ Wěiyuánhuì
 多布隆巴	山谷、谷地	Duōbùlóngbā
 鱼丘坝	农村居民点	Yúqiūbà
-章棍塔拉嘎查委员会	村民委员会	Jɑnɡɡûûntɑl Gɑqɑɑ Wěiyuánhuì
+章棍塔拉嘎查委员会	村民委员会	Jɑnggûûntɑl Gɑqɑɑ Wěiyuánhuì
 都兰县	县级行政区	Dūlán Xiàn
 来申台嘎查委员会	村民委员会	Lɑisɑntɑi Gɑqɑɑ Wěiyuánhuì
 拿于喀	农村居民点	Náyúkā
@@ -267774,14 +267774,14 @@ D区大道	主干路	Dqū Dàdào
 扎达着	山	Zhādázhuó
 洼吉龙洼	山谷、谷地	Wājílóngwā
 垒拿岖揪	农村居民点	Lěináqūjiū
-柴达木查干	农村居民点	Qɑidɑmqɑɡɑɑn
+柴达木查干	农村居民点	Qɑidɑmqɑgɑɑn
 米庄村民委员会	村民委员会	Mǐzhuāng Cūnmínwěiyuánhuì
 新湾村民委员会	村民委员会	Xīnwān Cūnmínwěiyuánhuì
 准草甘	农村居民点	Juunsôgiin
 龙尼	山谷、谷地	Lóngní
 嘎喀摧喀	农村居民点	Gākācuīkā
 琴溪村民委员会	村民委员会	Qínxī Cūnmínwěiyuánhuì
-潮海嘎查委员会	村民委员会	Xûɡûi Gɑqɑɑ Wěiyuánhuì
+潮海嘎查委员会	村民委员会	Xûgûi Gɑqɑɑ Wěiyuánhuì
 八树脑柯家	农村居民点	Bāshùnǎokējiā
 大海冬曲	草原	Dàhǎidōngqǔ
 小流村民委员会	村民委员会	Xiǎoliú Cūnmínwěiyuánhuì
@@ -267807,7 +267807,7 @@ D区大道	主干路	Dqū Dàdào
 关爷坡	山峰	Guānyé Pō
 乌龟尾山	山	Wūguīwěi Shān
 垃隆	山谷、谷地	Lālóng
-巴特查干	农村居民点	Bɑtqɑɡɑɑn
+巴特查干	农村居民点	Bɑtqɑgɑɑn
 玉皇殿	山峰	Yùhuángdiàn
 天渠中路	次干路	Tiānqú Zhōnglù
 哈日宝吐	农村居民点	Hɑrbût
@@ -267823,11 +267823,11 @@ D区大道	主干路	Dqū Dàdào
 尧日隆巴	山谷、谷地	Yáorìlóngbā
 姚老庄村民委员会	村民委员会	Yáolǎozhuāng Cūnmínwěiyuánhuì
 上畈对面山	山	Shàngfànduìmiàn Shān
-鲁根套布嘎查委员会	村民委员会	Luɡiintôb Gɑqɑɑ Wěiyuánhuì
+鲁根套布嘎查委员会	村民委员会	Lugiintôb Gɑqɑɑ Wěiyuánhuì
 按纳格贡玛	山谷、谷地	Ānnàgégòngmǎ
 三里桥	农村居民点	Sānlǐqiáo
 大牛园村民委员会	村民委员会	Dàniúyuán Cūnmínwěiyuánhuì
-海斯改嘎查委员会	村民委员会	Hɑisɡɑi Gɑqɑɑ Wěiyuánhuì
+海斯改嘎查委员会	村民委员会	Hɑisgɑi Gɑqɑɑ Wěiyuánhuì
 哈热尔达洼	山谷、谷地	Hārè'ěrdáwā
 协日勒台嘎查委员会	村民委员会	Xɑrɑltɑi Gɑqɑɑ Wěiyuánhuì
 约日隆巴	山谷、谷地	Yuērìlóngbā
@@ -269884,7 +269884,7 @@ D区大道	主干路	Dqū Dàdào
 猓戛达	农村居民点	Guōgādá
 朱王营	农村居民点	Zhūwángyíng
 霞它嘛牢	山谷、谷地	Xiátāmaláo
-新达冷村村民委员会	村民委员会	Xin Dalanɡ Cūn Cūnmín Wěiyuánhuì
+新达冷村村民委员会	村民委员会	Xin Dalang Cūn Cūnmín Wěiyuánhuì
 璋珍小河	河流	Zhāngzhēn Xiǎo Hé
 张花营村民委员会	村民委员会	Zhānghuāyíng Cūnmínwěiyuánhuì
 鲁店	农村居民点	Lǔdiàn
@@ -272395,7 +272395,7 @@ D区大道	主干路	Dqū Dàdào
 炳嶂山	农村居民点	Bǐngzhàngshān
 新寨梁	农村居民点	Xīnzhàiliáng
 白沙岬熊村	农村居民点	Báishājiǎxióngcūn
-格日忙哈	农村居民点	Germɑnɡh
+格日忙哈	农村居民点	Germɑngh
 达赛	山谷、谷地	Dásài
 重草源	农村居民点	Chóngcǎoyuán
 马蹄坞	农村居民点	Mǎtíwù
@@ -272714,7 +272714,7 @@ D区大道	主干路	Dqū Dàdào
 朝阳三社区居民委员会	社区居委会（居委会）	Cháoyáng Sān Shèqū Jūmínwěiyuánhuì
 老马固	农村居民点	Lǎomǎgù
 大水河	河流	Dà Shuǐ Hé
-巴日嘎斯塔拉	农村居民点	Bûrɡɑstɑl
+巴日嘎斯塔拉	农村居民点	Bûrgɑstɑl
 张横	农村居民点	Zhānghéng
 涌水坑	农村居民点	Yǒngshuǐkēng
 屋迹	农村居民点	Wūjì
@@ -272881,7 +272881,7 @@ D区大道	主干路	Dqū Dàdào
 上埠新村	农村居民点	Shàngbùxīncūn
 竖井湾	农村居民点	Shùjǐngwān
 婆官坵	农村居民点	Póguānqiū
-巴润海斯改	农村居民点	Bɑrûûnhɑisɡɑi
+巴润海斯改	农村居民点	Bɑrûûnhɑisgɑi
 围点	农村居民点	Wéidiǎn
 西大沟村民委员会	村民委员会	Xīdàgōu Cūnmínwěiyuánhuì
 拉宁郭勒河	河流	Lāníngguōlè Hé
@@ -272889,7 +272889,7 @@ D区大道	主干路	Dqū Dàdào
 叩头山章家	农村居民点	Kòutóushānzhāngjiā
 五峰村民委员会	村民委员会	Wǔfēng Cūnmín Wěiyuánhuì
 老六村	农村居民点	Lǎoliùcūn
-额日根胡都嘎	农村居民点	Erɡiinhûdɑɡ
+额日根胡都嘎	农村居民点	Ergiinhûdɑg
 绍群院子	农村居民点	Shàoqúnyuànzǐ
 孝文大道	主干路	Xiàowén Dàdào
 巴润伊和文都	农村居民点	Baruunyehondor
@@ -273791,7 +273791,7 @@ D区大道	主干路	Dqū Dàdào
 下横里沟	农村居民点	Xiàhénglǐgōu
 南墩	农村居民点	Nándūn
 赛青	山谷、谷地	Sàiqīng
-奈仁达冷	农村居民点	Narin Dalanɡ
+奈仁达冷	农村居民点	Narin Dalang
 三合村廖屋	农村居民点	Sānhécūnliàowū
 德兴大道	主干路	Déxīng Dàdào
 山蜂堰村	农村居民点	Shānfēngyàncūn
@@ -276703,7 +276703,7 @@ Z1路	次干路	Z 1 Lù
 东占	农村居民点	Dōngzhàn
 下塘墀	农村居民点	Xiàtángchí
 沛田	农村居民点	Pèitián
-自行村	农村居民点	Zìxínɡcūn
+自行村	农村居民点	Zìxíngcūn
 长宁街	次干路	Chángníng Jiē
 龙井彭家	农村居民点	Lóngjǐngpéngjiā
 吾吉角乎毛	山谷、谷地	Wújíjiǎohūmáo
@@ -300517,7 +300517,7 @@ Z1路	次干路	Z 1 Lù
 西宁塞	山	Xīníngsài
 笔坑	农村居民点	Bǐkēng
 申家门	农村居民点	Shēnjiāmén
-汗呼都嘎	农村居民点	Hɑɑnhûdɑɡ
+汗呼都嘎	农村居民点	Hɑɑnhûdɑg
 柯家庄	农村居民点	Kējiāzhuāng
 合林索根嘎查委员会	村民委员会	Hiliin Soog Gɑqɑɑ Wěiyuánhuì
 隔壁坞	农村居民点	Gébìwù
@@ -300549,7 +300549,7 @@ Z1路	次干路	Z 1 Lù
 舍畔	农村居民点	Shěpàn
 巴彦宝吐嘎查委员会	村民委员会	Bainbot Gɑqɑɑ Wěiyuánhuì
 棚仔里	农村居民点	Péngzǎilǐ
-小喇嘛套布	农村居民点	Bɑɡlɑmiintôb
+小喇嘛套布	农村居民点	Bɑglɑmiintôb
 廷鄂阿日	山	Tíngè'arì
 习八坑	农村居民点	Xíbākēng
 七间房村	农村居民点	Qījiānfángcūn
@@ -300566,7 +300566,7 @@ Z1路	次干路	Z 1 Lù
 浩雅日花	农村居民点	Hôyôrhûɑ
 沙加日陇巴	山	Shājiārì Lǒngbā
 库源村	农村居民点	Kùyuáncūn
-乌日都查干呼舒	农村居民点	Ûrdqɑɡɑɑnhûxûû
+乌日都查干呼舒	农村居民点	Ûrdqɑgɑɑnhûxûû
 莲塘底	农村居民点	Liántángdǐ
 道布格日	农村居民点	Dôbgôr
 拉琼鄂尼阿	山	Lāqióngèní'ā
@@ -300595,7 +300595,7 @@ Z1路	次干路	Z 1 Lù
 巴润苏莫	农村居民点	Bɑrûûnsum
 海鲁吐嘎查委员会	村民委员会	Hɑilûût Gɑqɑɑ Wěiyuánhuì
 碾日卡木塔	山	Niǎnrìkǎmùtǎ
-特莫图热其嘎查委员会	村民委员会	Temee Toroɡq Gɑqɑɑ Wěiyuánhuì
+特莫图热其嘎查委员会	村民委员会	Temee Torogq Gɑqɑɑ Wěiyuánhuì
 寨后沟	农村居民点	Zhàihòugōu
 尹屯	农村居民点	Yǐntún
 巴雅尔套布	农村居民点	Bɑyɑriintôb
@@ -306773,7 +306773,7 @@ Z1路	次干路	Z 1 Lù
 上斯日布	农村居民点	Shàngsrbu
 毕图胡勒斯	农、林、牧场点	Bituu Hulas
 登吉格嘎查	村民委员会	Denjig Gaqaa
-沙日嘎毛日村民委员会	村民委员会	Xɑrɡɑ Môri Cūnmínwěiyuánhuì
+沙日嘎毛日村民委员会	村民委员会	Xɑrgɑ Môri Cūnmínwěiyuánhuì
 桥岭山	山峰	Qiáolǐng Shān
 田万	农村居民点	Tiánwàn
 哈灯稿	农村居民点	Hadangûû
@@ -306846,7 +306846,7 @@ Z1路	次干路	Z 1 Lù
 模汤	农村居民点	Mótāng
 盆子坡	农村居民点	Pénzǐpō
 品湖岭	农村居民点	Pǐnhúlǐng
-陶报格嘎查委员会	村民委员会	Tôbôɡ Gɑqɑɑ Wěiyuánhuì
+陶报格嘎查委员会	村民委员会	Tôbôg Gɑqɑɑ Wěiyuánhuì
 灯草村村民委员会	村民委员会	Dēngcǎocūn Cūnmínwěiyuánhuì
 朝浩音额和	农、林、牧场点	Qohioiin Ehi
 三潼镇村民委员会	村民委员会	Sāntóngzhèn Cūnmínwěiyuánhuì
@@ -306910,7 +306910,7 @@ Z1路	次干路	Z 1 Lù
 康琼宅	山	Kāngqióngzhái
 阿拉善嘎查	村民委员会	Alshan Gaqaa
 邓埠高家	农村居民点	Dèngbùgāojiā
-沙尔利格嘎查委员会	村民委员会	Xɑrliɡ Gɑqɑɑ Wěiyuánhuì
+沙尔利格嘎查委员会	村民委员会	Xɑrlig Gɑqɑɑ Wěiyuánhuì
 乍谍效	山	Zhàdiéxiào
 背坡角	农村居民点	Bèipōjiǎo
 竹麻桥	农村居民点	Zhúmáqiáo
@@ -306931,7 +306931,7 @@ Z1路	次干路	Z 1 Lù
 核桃树屋基	农村居民点	Hétáoshùwūjī
 新家岭	农村居民点	Xīnjiālǐng
 碑垭路	次干路	Bēiyà Lù
-呼和芒哈嘎查委员会	村民委员会	Hohmɑnɡhɑ Gɑqɑɑ Wěiyuánhuì
+呼和芒哈嘎查委员会	村民委员会	Hohmɑnghɑ Gɑqɑɑ Wěiyuánhuì
 高古多玛自然村	农村居民点	Gokor Toma Dewa
 昌平湾	农村居民点	Chāngpíngwān
 巴润锡力浩特	农村居民点	Barûûn Sili Hôt
@@ -307029,7 +307029,7 @@ Z1路	次干路	Z 1 Lù
 格地自然村	农村居民点	Gurteng Dewa
 卸坪村民委员会	村民委员会	Xièpíng Cūnmínwěiyuánhuì
 云台桥	农、林、牧场点	Yúntáiqiáo
-达布察克村民委员会	村民委员会	Dɑbqɑɡ Cūnmínwěiyuánhuì
+达布察克村民委员会	村民委员会	Dɑbqɑg Cūnmínwěiyuánhuì
 桂竹庵	农村居民点	Guìzhú'ān
 嘎荣挂	山谷、谷地	Gāróngguà
 东乃	农村居民点	Dōngnǎi
@@ -308124,7 +308124,7 @@ Z1路	次干路	Z 1 Lù
 阿尼吾地	农村居民点	Āníwúdì
 石壁头	农村居民点	Shíbìtóu
 后建排	农村居民点	Hòujiànpái
-新达冷	农村居民点	Xīn Dalanɡ
+新达冷	农村居民点	Xīn Dalang
 丙抗	农村居民点	Bǐngkàng
 老海寨	农村居民点	Lǎohǎizhài
 马汉	农村居民点	Mǎhàn
@@ -308219,7 +308219,7 @@ Z1路	次干路	Z 1 Lù
 奎在冲	农村居民点	Kuízàichōng
 支独	农村居民点	Zhīdú
 老嘴坡	农村居民点	Lǎozuǐpō
-芒哈艾勒	农村居民点	Manɡhan Ail
+芒哈艾勒	农村居民点	Manghan Ail
 凹登老娃	草原	Āodēnglǎowá
 南木算后山	山	Nánmùsuànhòu Shān
 河南高庄	农村居民点	Hénángāozhuāng
@@ -310289,7 +310289,7 @@ Z1路	次干路	Z 1 Lù
 清水硚	农村居民点	Qīngshuǐqiáo
 周日隆	山谷、谷地	Drugrilung
 独榆树	农村居民点	Dúyúshù
-苏根艾勒	农村居民点	Sûûɡiin'ail
+苏根艾勒	农村居民点	Sûûgiin'ail
 黄梁树垭口	山	Huángliángshùyākǒu
 正洞尾	农村居民点	Zhèngdòngwěi
 小溪山村	农村居民点	Xiǎoxīshāncūn
@@ -310312,7 +310312,7 @@ Z1路	次干路	Z 1 Lù
 杰肯	山	Jodkhug
 德马埃甲	山	Démǎ Āijiǎ
 高源头	农村居民点	Gāoyuántóu
-特莫图热其	农村居民点	Temeetoroɡq
+特莫图热其	农村居民点	Temeetorogq
 桥沟垴	农村居民点	Qiáogōunǎo
 杂尔加佐瑞	山	Tsakya Tseri
 里南坑	农村居民点	Lǐnánkēng
@@ -310380,7 +310380,7 @@ Z1路	次干路	Z 1 Lù
 池家庄	农村居民点	Chíjiā Zhuāng
 花山湾里	农、林、牧场点	Huāshānwānlǐ
 观音庙湾	农村居民点	Guānyīnmiàowān
-哈准巴彦哈嘎	农村居民点	Hɑjûûɡiin'bɑyɑhɑɡ
+哈准巴彦哈嘎	农村居民点	Hɑjûûgiin'bɑyɑhɑg
 直合果	山	Draggo
 玛杰拉卡	山谷、谷地	Mǎjiélākǎ
 瓦杂高乐	山谷、谷地	Bardzagoleb
@@ -310563,7 +310563,7 @@ Z1路	次干路	Z 1 Lù
 北赵家	农村居民点	Běizhàojiā
 芒蚌沙沟	河流	Mángbàng Shāgōu
 石躲坎	农村居民点	Shíduǒkǎn
-哈根	农村居民点	Hɑɡ
+哈根	农村居民点	Hɑg
 招山路	支路	Zhāoshān Lù
 斯木海独贵龙	农村居民点	Seimehei Dûgûilang
 塘坊西四路	支路	Tángfāngxī 4 Lù
@@ -318015,7 +318015,7 @@ Z1路	次干路	Z 1 Lù
 古日本毛浩尔	山	Gûrban Môhôr
 糯土登	农村居民点	Nuòtǔdēng
 毛达坂	山	Máo Dabaa
-芒格图恩格日	农村居民点	Manɡhtin Enɡɡer
+芒格图恩格日	农村居民点	Manghtin Engger
 杨坡楼	农村居民点	Yángpōlóu
 上狗坑	农村居民点	Shànggǒukēng
 加期迷	农村居民点	Jiāqīmī
@@ -318033,7 +318033,7 @@ Z1路	次干路	Z 1 Lù
 李九贤	农村居民点	Lǐjiǔxián
 期米黑	农村居民点	Qīmǐhēi
 杨溪畈董家村	农村居民点	Yángxīfàndǒngjiācūn
-乌兰图嘎五队	农村居民点	Ûlaan Tûɡ Wǔduì
+乌兰图嘎五队	农村居民点	Ûlaan Tûg Wǔduì
 麦园新村	农村居民点	Màiyuánxīncūn
 窝坑塘	农村居民点	Wōkēngtáng
 托家山	农村居民点	Tuōjiāshān
@@ -318087,7 +318087,7 @@ Z1路	次干路	Z 1 Lù
 垭吾摆	农村居民点	Yāwúbǎi
 左洛底村民委员会	村民委员会	Zuǒluòdǐ Cūnmínwěiyuánhuì
 西卡铎	农村居民点	Xīkǎduó
-吉格艾勒	农村居民点	Jiɡin Ail
+吉格艾勒	农村居民点	Jigin Ail
 响滩河	河流	Xiǎngtān Hé
 斐勒	农村居民点	Fěilè
 以起	农村居民点	Yǐqǐ
@@ -324030,7 +324030,7 @@ Z1路	次干路	Z 1 Lù
 观前许家	农村居民点	Guānqiánxǔjiā
 木马	农村居民点	Mùmǎ
 芫子背	农村居民点	Yuánzǐbèi
-查干苏莫乌拉	山	QaɡaanSum Ûûl
+查干苏莫乌拉	山	QagaanSum Ûûl
 樟桥路	支路	Zhāngqiáo Lù
 巷岭村民委员会	村民委员会	Xiànglǐng Cūnmínwěiyuánhuì
 老下十三村	农村居民点	Lǎoxiàshísāncūn
@@ -328184,7 +328184,7 @@ Z1路	次干路	Z 1 Lù
 针巷口社区居民委员会	社区居委会（居委会）	Zhēnxiàngkǒu Shèqū Jūmínwěiyuánhuì
 外河街社区居民委员会	社区居委会（居委会）	Wàihéjiē Shèqū Jūmínwěiyuánhuì
 通河墁	农村居民点	Tōnghémàn
-格根恩格日	农村居民点	Geɡeen Enɡɡer
+格根恩格日	农村居民点	Gegeen Engger
 汽站	农村居民点	Qìzhàn
 孙家垅	农村居民点	Sūnjiālǒng
 广源新村	农村居民点	Guǎngyuánxīncūn
@@ -328209,13 +328209,13 @@ Z1路	次干路	Z 1 Lù
 张元村民委员会	村民委员会	Zhāngyuán Cūnmínwěiyuánhuì
 吉尔隆	山谷、谷地	Kyillung
 龙井村大山背	农村居民点	Lóngjǐngcūndàshānbèi
-赛胡都格	农村居民点	Sain Hûdaɡ
+赛胡都格	农村居民点	Sain Hûdag
 代光石	山	Dàiguāngshí
 小石窝	农村居民点	Xiǎoshíwō
 莲花台路	支路	Liánhuātái Lù
 五甲刘家	农村居民点	Wǔjiǎliújiā
 上屋沟背	农村居民点	Shàngwūgōubèi
-崩根恩格日	农村居民点	Bônɡɡôn Enɡɡer
+崩根恩格日	农村居民点	Bônggôn Engger
 平掌村民委员会	村民委员会	Píngzhǎng Cūnmínwěiyuánhuì
 大西岗	农村居民点	Dàxīgǎng
 松光梁	山峰	Sōngguāng Liáng
@@ -329556,7 +329556,7 @@ Z1路	次干路	Z 1 Lù
 鱼洞沟	山谷、谷地	Yúdòng Gōu
 转包	农村居民点	Zhuǎnbāo
 打哇地过	山坡	Dǎwādìguò
-宝拉格嘎查委员会	村民委员会	Bûlaɡ Gaqaa Wěiyuánhuì
+宝拉格嘎查委员会	村民委员会	Bûlag Gaqaa Wěiyuánhuì
 马宗	农村居民点	Mǎzōng
 大排沙倮	农村居民点	Dàpáishāluǒ
 罗子金里	农村居民点	Luózǐjīnlǐ
@@ -329578,7 +329578,7 @@ Z1路	次干路	Z 1 Lù
 大排下寨	农村居民点	Dàpáixiàzhài
 宋家牌楼郭桥新村	农村居民点	Sòngjiāpáilóuguōqiáoxīncūn
 平高一路	次干路	Pínggāo 1 Lù
-翁根毛都嘎查委员会	村民委员会	Ȏnɡɡôn Môd Gaqaa Wěiyuánhuì
+翁根毛都嘎查委员会	村民委员会	Ȏnggôn Môd Gaqaa Wěiyuánhuì
 灿干村民委员会	村民委员会	Tsha Kan Sde Dmangs U Yon Lhan Khang
 新农村下寨	农村居民点	Xīnnóngcūnxiàzhài
 加不特东日玛山	山峰	Jiābùtèdōngrìmǎ Shān
@@ -331356,7 +331356,7 @@ Z1路	次干路	Z 1 Lù
 何兴巷	支路	Héxīng Xiàng
 枫林熊家	农村居民点	Fēnglínxióngjiā
 三夹角	农村居民点	Sānjiájiǎo
-套格斯嘎查委员会	村民委员会	Tôɡs Gɑqɑɑ Wěiyuánhuì
+套格斯嘎查委员会	村民委员会	Tôgs Gɑqɑɑ Wěiyuánhuì
 小次博	农村居民点	Xiǎocìbó
 潘家店南山	山	Pānjiā Diàn Nánshān
 药甫	农村居民点	Yàofǔ
@@ -331377,7 +331377,7 @@ Z1路	次干路	Z 1 Lù
 东坊周家	农村居民点	Dōngfángzhōujiā
 大华尖	山峰	Dàhuá Jiān
 沙地隆	山谷、谷地	Shādìlóng
-特特根嘎查委员会	村民委员会	Tesɡen Gɑqɑɑ Wěiyuánhuì
+特特根嘎查委员会	村民委员会	Tesgen Gɑqɑɑ Wěiyuánhuì
 洋优	农村居民点	Yángyōu
 贝子浩饶嘎查委员会	村民委员会	Biisiin Hôrôô Gaqaa Wěiyuánhuì
 诺拉图山	山	Nǔrhait Shān
@@ -334919,7 +334919,7 @@ Z1路	次干路	Z 1 Lù
 羊婆巷社区居民委员会	社区居委会（居委会）	Yángpóxiàng Shèqū Jūmínwěiyuánhuì
 上龙王沟	农村居民点	Shànglóngwánggōu
 铁沙村民委员会	村民委员会	Tiěshā Cūnmínwěiyuánhuì
-召根苏莫	农村居民点	Jûûɡiinsum
+召根苏莫	农村居民点	Jûûgiinsum
 德日巴音赛	山坡	Deer Bayan Sai
 下海苏沟	农村居民点	Xià Hailastai Gōu
 星秀喀	山峰	shenshulkha
@@ -339865,7 +339865,7 @@ Z1路	次干路	Z 1 Lù
 布敦哈日根嘎查委员会	村民委员会	Buduun Hɑrgɑn Gɑqɑɑ Wěiyuánhuì
 麻尕	农村居民点	Mágǎ
 白兰坞	农村居民点	Báilánwù
-斯布奎嘎查委员会	村民委员会	Sûbɑɡ Gɑqɑɑ Wěiyuánhuì
+斯布奎嘎查委员会	村民委员会	Sûbɑg Gɑqɑɑ Wěiyuánhuì
 拉兄一社	农村居民点	Lāxiōng 1 Shè
 铧石塆	农村居民点	Huáshíwān
 下滩头社区居民委员会	社区居委会（居委会）	Xiàtāntóu Shèqūjūmínwěiyuánhuì
@@ -341533,13 +341533,13 @@ Z1路	次干路	Z 1 Lù
 塘踩沟	农村居民点	Tángcǎigōu
 姑往	农村居民点	Gūwǎng
 兴康路	次干路	Xīngkāng Lù
-阿都好宝其	农村居民点	Adûûhôbôôɡq
+阿都好宝其	农村居民点	Adûûhôbôôgq
 西门明清古街	支路	Xīménmíngqīng Gǔjiē
 小姬庄	农村居民点	Xiǎojīzhuāng
 罗陂岭	农村居民点	Luóbēilǐng
 外林冲	农村居民点	Wàilínchōng
 田里喻家	农村居民点	Tiánlǐyùjiā
-草布日嘎	农村居民点	Sôbrɑɡ
+草布日嘎	农村居民点	Sôbrɑg
 龙宝	农村居民点	Lóngbǎo
 马司湾	农村居民点	Mǎsīwān
 姑母	农村居民点	Gūmǔ
@@ -341571,7 +341571,7 @@ Z1路	次干路	Z 1 Lù
 柴狗垇	山峰	Cháigǒuào
 让巴囊	山谷、谷地	Ràngbānáng
 岩纳古	山	Yánnàgǔ
-固力根好沁	农村居民点	Golɡiinhûûqin
+固力根好沁	农村居民点	Golgiinhûûqin
 胡坊卢村	农村居民点	Húfānglúcūn
 盘古村民委员会	村民委员会	Pángǔ Cūnmínwěiyuánhuì
 姑合	农村居民点	Gūhé
@@ -341612,7 +341612,7 @@ Z1路	次干路	Z 1 Lù
 下巩村民委员会	村民委员会	Xiàgǒng Cūnmínwěiyuánhuì
 达楞额勒斯	丘陵山地	Talan Eles
 扎木曲	河流	Zhāmù Qǔ
-特特根	农村居民点	Tesɡen
+特特根	农村居民点	Tesgen
 仵庄	农村居民点	Wǔzhuāng
 茶热策奶	山谷、谷地	Chárècènǎi
 怎古举	山	Zěngǔjǔ
@@ -341686,7 +341686,7 @@ Z1路	次干路	Z 1 Lù
 宏恒创业街	支路	Hónghéng Chuàngyè Jiē
 者保梁子	山	Zhěbǎoliángzǐ
 达瓦西	农村居民点	Dáwǎxī
-准套格斯	农村居民点	Juuntôɡs
+准套格斯	农村居民点	Juuntôgs
 冯家园	农村居民点	Féngjiāyuán
 拿搔囊	山谷、谷地	Násāonáng
 董冲村民委员会	村民委员会	Dǒngchōng Cūnmínwěiyuánhuì
@@ -341744,7 +341744,7 @@ Z1路	次干路	Z 1 Lù
 长龙梗	山	Chánglóng Gěng
 小龙晒	农村居民点	Xiǎolóngshài
 练兵场	农村居民点	Liànbīngchǎng
-巴润套格斯	农村居民点	Brûûntôɡs
+巴润套格斯	农村居民点	Brûûntôgs
 罗干岭	山	Luógàn Lǐng
 东游罗家	农村居民点	Dōngyóuluójiā
 擦果荣	山谷、谷地	Cāguǒróng

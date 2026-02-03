@@ -1281,7 +1281,7 @@
 碧空万里	bì kōng wàn lǐ
 碧落黄泉	bì luò huáng quán
 碧血丹心	bì xuè dān xīn
-蔽聪塞明	bì cōnɡ sè mínɡ
+蔽聪塞明	bì cōng sè míng
 蔽明塞聪	bì míng sè cōng
 蔽日干云	bì rì gān yún
 蔽日遮天	bì rì zhē tiān
@@ -3340,7 +3340,7 @@
 尺水丈波	chǐ shuǐ zhàng bō
 尺蚓穿堤，能漂一邑	chǐ yǐn chuān dī，néng piāo yī yì
 尺有所短	chǐ yǒu suǒ duǎn
-尺有所短，寸有所长	chǐ yóu suǒ duǎn，cùn yóu suǒ chánɡ
+尺有所短，寸有所长	chǐ yóu suǒ duǎn，cùn yóu suǒ cháng
 尺瑜寸瑕	chǐ yú cùn xiá
 尺泽之鲵	chǐ zé zhī ní
 尺竹伍符	chǐ zhú wǔ fú
@@ -22248,7 +22248,7 @@
 铜墙铁壁	tóng qiáng tiě bì
 铜山金穴	tóng shān jīn xué
 铜山铁壁	tóng shān tiě bì
-铜山西崩，洛钟东应	tóng shān xī bēnɡ，luò zhōng dōng yìng
+铜山西崩，洛钟东应	tóng shān xī bēng，luò zhōng dōng yìng
 铜头铁臂	tóng tóu tiě bì
 铜头铁额	tóng tóu tiě é
 铜驼草莽	tóng tuó cǎo mǎng
@@ -23868,7 +23868,7 @@
 西台痛哭	xī tái tòng kū
 西装革履	xī zhuāng gé lǚ
 西子捧心	xī zǐ pěng xīn
-吸风饮露	xī fēnɡ yǐn lù
+吸风饮露	xī fēng yǐn lù
 吸新吐故	xī xīn tǔ gù
 希奇古怪	xī qí gǔ guài
 希世之宝	xī shì zhī bǎo
@@ -23966,7 +23966,7 @@
 席薪枕块	xí xīn zhěn kuài
 席珍待聘	xí zhēn dài pìn
 袭故蹈常	xí gù dǎo cháng
-袭人故智	xí rén ɡù zhì
+袭人故智	xí rén gù zhì
 洗兵牧马	xǐ bīng mù mǎ
 洗肠涤胃	xǐ cháng dí wèi
 洗耳恭听	xǐ ěr gōng tīng
@@ -24614,7 +24614,7 @@
 心荡神怡	xīn dàng shén yí
 心到神知	xīn dào shén zhī
 心低意沮	xīn dī yì jǔ
-心烦技痒	xīn fán jì yǎnɡ
+心烦技痒	xīn fán jì yǎng
 心烦虑乱	xīn fán lǜ luàn
 心烦意乱	xīn fán yì luàn
 心烦意冗	xīn fán yì rǒng

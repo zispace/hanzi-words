@@ -146,7 +146,7 @@ WC	WC
 WHO	WHO	
 WTO	WTO	
 WWW	WWW	
-W考生	W考生	W kǎoshēnɡ
+W考生	W考生	W kǎoshēng
 X射线	X射线	X shèxiàn
 X染色体	X染色体	X rǎnsètǐ
 Y染色体	Y染色体	Y rǎnsètǐ
@@ -47957,7 +47957,7 @@ Y染色体	Y染色体	Y rǎnsètǐ
 独立性	独立性	dúlìxìng
 独立王国	独立王国	dúlì-wángguó
 独立自主	独立自主	dúlì-zìzhǔ
-独立董事	独立董事	dúlì dǒnɡshì
+独立董事	独立董事	dúlì dǒngshì
 独脚戏	独脚戏	dújiǎoxì
 独自	独自	dúzì
 独舞	独舞	dúwǔ
@@ -60814,7 +60814,7 @@ Y染色体	Y染色体	Y rǎnsètǐ
 航天	航天	hángtiān
 航天员	航天员	hángtiānyuán
 航天器	航天器	hángtiānqì
-航天服	航天服	hánɡtiānfú
+航天服	航天服	hángtiānfú
 航天站	航天站	hángtiānzhàn
 航天飞机	航天飞机	hángtiān fēijī
 航拍	航拍	hángpāi

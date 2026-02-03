@@ -11594,7 +11594,7 @@
 吵吵闹闹	chǎo chǎo nào nào
 吸新吐故	xī xīn tǔ gù
 吸血鬼	xī xuè guǐ
-吸风饮露	xī fēnɡ yǐn lù
+吸风饮露	xī fēng yǐn lù
 吹叶嚼蕊	chuī yè jiáo ruǐ
 吹吹打打	chuī chuī dǎ dǎ
 吹吹拍拍	chuī chuī pāi pāi
@@ -16125,7 +16125,7 @@
 尺幅千里	chǐ fú qiān lǐ
 尺幅寸缣	chǐ fú cùn jiān
 尺有所短	chǐ yǒu suǒ duǎn
-尺有所短，寸有所长	chǐ yóu suǒ duǎn，cùn yóu suǒ chánɡ
+尺有所短，寸有所长	chǐ yóu suǒ duǎn，cùn yóu suǒ cháng
 尺板斗食	chǐ bǎn dòu shí
 尺枉寻直	chǐ wǎng xún zhí
 尺树寸泓	chǐ shù cùn hóng
@@ -18496,7 +18496,7 @@
 心烦意冗	xīn fán yì rǒng
 心烦意燥	xīn fán yì zào
 心烦意闷	xīn fán yì mèn
-心烦技痒	xīn fán jì yǎnɡ
+心烦技痒	xīn fán jì yǎng
 心烦虑乱	xīn fán lǜ luàn
 心焉如割	xīn yān rú gē
 心焦如火	xīn jiāo rú huǒ
@@ -39133,7 +39133,7 @@
 蔽日遮天	bì rì zhē tiān
 蔽明塞聪	bì míng sè cōng
 蔽美扬恶	bì měi yáng è
-蔽聪塞明	bì cōnɡ sè mínɡ
+蔽聪塞明	bì cōng sè míng
 蕃篱之鷃	fān lí zhī yàn
 蕉鹿之梦	jiāo lù zhī mèng
 蕙心兰质	huì xīn lán zhì
@@ -40139,9 +40139,9 @@
 被褐怀珠	pī hè huái zhū
 被褐藏辉	pī hè cáng huī
 被赭贯木	pī zhě guàn mù
-袭人故伎	xí rén ɡù jì
+袭人故伎	xí rén gù jì
 袭人故技	xí rén gù jì
-袭人故智	xí rén ɡù zhì
+袭人故智	xí rén gù zhì
 袭以成俗	xí yǐ chéng sú
 袭冶承弓	xí yě chéng gōng
 袭凡蹈故	xí fán dǎo gù
@@ -45172,7 +45172,7 @@
 铜壶漏断	tóng hú lòu duàn
 铜头铁臂	tóng tóu tiě bì
 铜头铁额	tóng tóu tiě é
-铜山西崩，洛钟东应	tóng shān xī bēnɡ，luò zhōng dōng yìng
+铜山西崩，洛钟东应	tóng shān xī bēng，luò zhōng dōng yìng
 铜山金穴	tóng shān jīn xué
 铜山铁壁	tóng shān tiě bì
 铜心铁胆	tóng xīn tiě dǎn
@@ -45239,7 +45239,7 @@
 银海生花	yín hǎi shēng huā
 银瓶素绠	yín píng sù gěng
 银花火树	yín huā huǒ shù
-银装素裹	yín zhuānɡ sù ɡuǒ
+银装素裹	yín zhuāng sù guǒ
 银钩玉唾	yín gōu yù tuò
 银钩虿尾	yín gōu chài wěi
 银钩铁画	yín gōu tiě huà

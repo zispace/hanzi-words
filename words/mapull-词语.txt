@@ -59408,7 +59408,7 @@ www	www
 吸露	xī lù
 吸顶灯	xī dǐng dēng
 吸风	xī fēng
-吸风饮露	xī fēnɡ yǐn lù
+吸风饮露	xī fēng yǐn lù
 吸食	xī shí
 吸饮	xī yǐn
 吹冷风	chuī lěng fēng
@@ -90810,7 +90810,7 @@ www	www
 尺度	chǐ dù
 尺晷一赋	chǐ guǐ yī fù
 尺有所短	chǐ yǒu suǒ duǎn
-尺有所短，寸有所长	chǐ yóu suǒ duǎn，cùn yóu suǒ chánɡ
+尺有所短，寸有所长	chǐ yóu suǒ duǎn，cùn yóu suǒ cháng
 尺板斗食	chǐ bǎn dòu shí
 尺枉寻直	chǐ wǎng xún zhí
 尺树寸泓	chǐ shù cùn hóng
@@ -106863,7 +106863,7 @@ www	www
 心烦意冗	xīn fán yì rǒng
 心烦意燥	xīn fán yì zào
 心烦意闷	xīn fán yì mèn
-心烦技痒	xīn fán jì yǎnɡ
+心烦技痒	xīn fán jì yǎng
 心烦虑乱	xīn fán lǜ luàn
 心热	xīn rè
 心焉如割	xīn yān rú gē
@@ -239600,7 +239600,7 @@ www	www
 蔽狱	bì yù
 蔽罪	bì zuì
 蔽美扬恶	bì měi yáng è
-蔽聪塞明	bì cōnɡ sè mínɡ
+蔽聪塞明	bì cōng sè míng
 蔽芾	bì fèi
 蔽鄣	bì zhāng
 蔽隐	bì yǐn
@@ -246385,9 +246385,9 @@ www	www
 被风	bèi fēng
 袭事	xí shì
 袭人	xí rén
-袭人故伎	xí rén ɡù jì
+袭人故伎	xí rén gù jì
 袭人故技	xí rén gù jì
-袭人故智	xí rén ɡù zhì
+袭人故智	xí rén gù zhì
 袭从	xí cóng
 袭以成俗	xí yǐ chéng sú
 袭仿	xí fǎng
@@ -288501,7 +288501,7 @@ www	www
 铜官	tóng guān
 铜尺	tóng chǐ
 铜山	tóng shān
-铜山西崩，洛钟东应	tóng shān xī bēnɡ，luò zhōng dōng yìng
+铜山西崩，洛钟东应	tóng shān xī bēng，luò zhōng dōng yìng
 铜山金穴	tóng shān jīn xué
 铜山铁壁	tóng shān tiě bì
 铜川市	tóng chuān shì
@@ -289155,7 +289155,7 @@ www	www
 银蟾	yín chán
 银行	yín háng
 银行卡	yín háng kǎ
-银装素裹	yín zhuānɡ sù ɡuǒ
+银装素裹	yín zhuāng sù guǒ
 银角	yín jiǎo
 银角子	yín jiǎo zǐ
 银角桃枝	yín jiǎo táo zhī
