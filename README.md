@@ -20,17 +20,12 @@
 
 ### 词典类 `dict`
 
-**简体中文**
-
-- 现代汉语常用词表
-  - [x] 《现代汉语常用词表（草案）》2008 年
-  - [ ] 《现代汉语常用词表》（第 2 版，2021 年）
 - 现代汉语词典
   - [x] 《现代汉语词典》（第 7 版，2016 年）
 - [x] 《现代汉语大词典》（阮智富 / 郭忠新主编，上海辞书出版社）
 - [x] 《近代汉语词典》（白维国 主编，上海教育出版社）
-
-**繁体中文**
+- [x] 《古代汉语词典》(第一版) 商务印书馆 2003
+- [x] 现代汉语规范词典(第2、4版)
 
 - [x] 《中華語文大辭典》（2016 年）、《兩岸詞典》（兩岸差異用詞）
   - 中華語文知識庫 https://www.chinese-linguipedia.org
@@ -52,5 +47,11 @@
 
 ### 专名词库
 
-- 人名
-- 地名
+- 人名 `person`
+- 地名 `location`
+
+## 附录
+
+- 现代汉语常用词表（2008年草案/2021年第2版） 在[zispace/hanzi-words-cycb](https://github.com/zispace/hanzi-words-cycb)
+- 《咬文嚼字》等年度字词、流行语，参见[zispace/hanzi-words-annual](https://github.com/zispace/hanzi-words-annual)
+- 补充词表（百科词条、输入法词库、NLP词库等），参见[zispace/hanzi-words-ext](https://github.com/zispace/hanzi-words-ext)
