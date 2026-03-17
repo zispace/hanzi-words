@@ -49,6 +49,9 @@
 
 - 人名 `person`
 - 地名 `location`
+  - 自2024年10月起，国家统计局不再公开统计用区划代码和城乡划分代码，仅作为工作中使用的内部资料。[原文](https://www.stats.gov.cn/hd/lyzx/zxgk/202509/t20250903_1960996.html)
+  - 民政部行政区划（2026年起每年1月发布更新） [链接](https://dmfw.mca.gov.cn/XzqhVersionPublish.html)
+  - 县级以上行政区划代码（1981年至今） [yescallop/areacodes](https://github.com/yescallop/areacodes)
 
 ## 附录
 

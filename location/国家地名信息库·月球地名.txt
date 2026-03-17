@@ -795,7 +795,7 @@
 巴德谷	Vallis Baade	月谷
 普朗克谷	Vallis Planck	月谷
 斯内利厄斯谷	Vallis Snellius	月谷
-薛定谔谷	Vallis Schr  dinger	月谷
+薛定谔谷	Vallis Schr dinger	月谷
 因吉拉米谷	Vallis Inghirami	月谷
 阿尔塔莫诺夫坑链	Catena Artamonov	坑链
 艾布·菲达坑链	Catena Abulfeda	坑链

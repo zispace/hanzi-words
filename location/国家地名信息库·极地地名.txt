@@ -363,5 +363,5 @@
 紫阳湖	Ziyang Hu	Lake
 紫云山	Ziyun Shan	Hill
 里岛*	Li Dao	Island
-企鹅连岛*	Qi’e Liandao	Attached  Island
-外岛连岛*	Waidao Liandao	Attached  Island
+企鹅连岛*	Qi’e Liandao	Attached Island
+外岛连岛*	Waidao Liandao	Attached Island
